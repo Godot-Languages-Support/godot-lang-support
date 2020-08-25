@@ -1,11 +1,10 @@
 # 🗺 Godot Languages Support
-> Originally forked from https://gist.github.com/ShalokShalom/7b2308e6ddc020d7ab7080b645953f1b
 
 *A community-maintained listing of languages with bindings for making scripts in Godot Engine.*
 
 ### ⚠ Disclaimer
-Core engine or module development is preferably done using C++ (which is the language in which the engine is written), for which [the official docs for contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) is a better starting point.
 
+Core engine or module development is preferably done using C++ (which is the language in which the engine is written), for which [the official docs for contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) is a better starting point.
 The languages provided here can be used for *making scripts through the GDNative interface*, which also includes C++, but support for which is different from its use in module development.
 
 ## Categories
@@ -13,10 +12,9 @@ The languages provided here can be used for *making scripts through the GDNative
 ### (TODO)
 (Per-module support feature legend. Currently, Rust (IIRC) doesn't support the video encoding module.)
 
-
 ### By feature
 - 🧬 Integrated with Godot Engine
-- 🔌Needs External IDE
+- 🔌 Needs External IDE
 
 ### By maintainer
 - 💍 Official
@@ -44,6 +42,7 @@ The languages provided here can be used for *making scripts through the GDNative
 
 ## 🥈 Nearly There
 1. **[D](https://github.com/godot-d/godot-d) 👥**
+2. **[Haskell](https://hackage.haskell.org/package/godot-haskell) 👥🔌**
 
   Stable, not documented.
 
@@ -61,12 +60,8 @@ The languages provided here can be used for *making scripts through the GDNative
   C++ is a bit of a hot potato anywhere, and it is here as well: some people like to use it, but it could use better documention in places. Some peeves such as not being able to use modern C++ features starting from C++11 dwell in this API.
 
 ## Left 4 Dead
-1. **[Haskell](https://hackage.haskell.org/package/godot-haskell) 👥🔌**
 1. **[Go](https://github.com/ShadowApex/godot-go) 👥🔌**
-
-  Haskell is used by one project only and is only partly integrated and documented.
   
   Go bindings haven't been updated since 2018.
-
   Sadly, not documented and stable enough for production.
-  If you can, please revive them.
+  
