@@ -29,7 +29,7 @@ The languages provided here can be used for *making scripts through the GDNative
 
   GDScript is actively maintained and documented, and is stable. It is the primary language, has the most tutorials online and has deep in-Godot editor support.
 
-  VisualScript can be considered as a secondary scripting language for non-programmers or more visually-acute people. It too provides rich support.
+  VisualScript can be considered as a secondary scripting language with blocks-and-nodes. It too provides rich support, although there is a community effort to make it more intuitive to use as a design tool instead of what users describe as a one-to-one mapping of code with terse programming jargon where it should be more humanised.
 
 ## 🥇 Production Ready
 1. **[Rust](https://github.com/godot-rust/godot-rust) 👥🔌**
