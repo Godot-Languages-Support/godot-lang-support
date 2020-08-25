@@ -1,6 +1,7 @@
 # Godot Languages Support
-*A community-maintained listing of languages with bindings for Godot Engine.*
+> Originally forked from https://gist.github.com/ShalokShalom/7b2308e6ddc020d7ab7080b645953f1b
 
+*A community-maintained listing of languages with bindings for Godot Engine.*
 
 ## Categories
 
