@@ -6,7 +6,7 @@
 ### Disclaimer
 Core engine or module development is preferably done using C++ (which is the language in which the engine is written), for which [the official docs for contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) is a better starting point.
 
-The languages provided here can be used for making scripts through the GDNative interface, which also includes C++, but through the GDNative interface which allows hot-reloading, which is a separate thing from engine or module development.
+The languages provided here can be used for *making scripts through the GDNative interface*, which also includes C++, but support for which is different from its use in module development.
 
 ## Categories
 
