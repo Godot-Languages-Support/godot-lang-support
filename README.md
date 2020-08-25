@@ -25,10 +25,11 @@ The languages provided here can be used for *making scripts through the GDNative
 
 ## 🏆 Full support
 1. **[GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html) 💍🧬**
+1. **[VisualScript](https://docs.godotengine.org/en/stable/getting_started/scripting/visual_script/index.html) 💍🧬**
 
-  GDScript is actively maintained and documented, and is stable. 
+  GDScript is actively maintained and documented, and is stable. It is the primary language, has the most tutorials online and has deep in-Godot editor support.
 
-It is the primary language, has the most tutorials online and has deep in-Godot editor support.
+  VisualScript could be considered as a secondary scripting language for non-programmers or more visually-acute people. It too provides rich support.
 
 ## 🥇 Production Ready
 1. **[Rust](https://github.com/godot-rust/godot-rust) 👥🔌**
@@ -55,13 +56,13 @@ It is the primary language, has the most tutorials online and has deep in-Godot 
   Kotlin bindings, while declared unready for production use and still in alpha, are being maintained fairly regularly in 2020.
 
 ## 🏅 Okay, I guess?
-1. **[C++ *GDNative support*](https://github.com/godotengine/godot-cpp) 💍**
+1. **[C++ *GDNative support*](https://github.com/godotengine/godot-cpp) 💍🔌**
 
   C++ is a bit of a hot potato anywhere, and it is here as well: some people like to use it, but it could use better documention in places. Some peeves such as not being able to use modern C++ features starting from C++11 dwell in this API.
 
 ## Left 4 Dead
-1. **[Haskell](https://hackage.haskell.org/package/godot-haskell) 👥**
-1. **[Go](https://github.com/ShadowApex/godot-go)👥**
+1. **[Haskell](https://hackage.haskell.org/package/godot-haskell) 👥🔌**
+1. **[Go](https://github.com/ShadowApex/godot-go) 👥🔌**
 
   Haskell is used by one project only and is only partly integrated and documented.
   
