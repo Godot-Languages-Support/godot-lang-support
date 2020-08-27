@@ -65,4 +65,6 @@ The languages provided here can be used for *making scripts through the GDNative
   Go bindings haven't been updated since 2018.
   Sadly, not documented and stable enough for production.
   
-Games from scratch made a [[video]](https://youtu.be/VqcMlS-IJl4) about the some supported languages, enjoy.
+Games from scratch made a [video](https://youtu.be/VqcMlS-IJl4) about some of the supported languages.
+
+## Enjoy ^-^
