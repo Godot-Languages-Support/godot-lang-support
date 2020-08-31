@@ -34,9 +34,16 @@ The languages provided here can be used for *making scripts through the GDNative
 1. **[Nim](https://github.com/pragmagic/godot-nim) 👥🔌**
 1. **[JavaScript](https://github.com/GodotExplorer/ECMAScript) 👥🔌**
 1. **[C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍🔌**
-
+1. **[Lua](https://github.com/perbone/luascript) 👥🧬🔌**
 
   These languages are documented and stable. Some people use it in production.
+
+  JavaScript support is a 3rd-party module. Modules add built-in support (like GDScript), but require [compiling it into the engine](https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html).
+  With JavaScript, you also get support for languages that transpile to JavaScript, e.g. TypeScript or CoffeeScript.
+
+  C# support is an official module. If you have a Mono-version of Godot Engine, it comes built into the engine.
+  With C#, you also get support for integrating other Mono-supported languages, e.g. F# or VisualBasic. But, Godot currently hardcodes C# usage. Any classes attached to a Node or Resource must be a C# script.
+  For tools to facilitate the use of F# with Godot's C# scripts, see [Godot F# Tools](https://github.com/willnationsdev/godot-fsharp-tools).
 
   (C# External Code Editing support is decent. What's it like for the others?)
 
@@ -61,10 +68,15 @@ The languages provided here can be used for *making scripts through the GDNative
 
 ## Left 4 Dead
 1. **[Go](https://github.com/ShadowApex/godot-go) 👥🔌**
+1. **[Ruby](https://github.com/onyxblade/godot-ruby) 👥🔌**
   
   Go bindings haven't been updated since 2018.
   Sadly, not documented and stable enough for production.
   
+  Ruby bindings haven't been updated since 2018.
+  It's an attempted PluginScript system, but it's designed poorly with ~15x performance loss vs. GDScript.
+  Not documented or stable enough for use.
+
 Games from scratch made a [video](https://youtu.be/VqcMlS-IJl4) about some of the supported languages.
 
 ## Enjoy ^-^
