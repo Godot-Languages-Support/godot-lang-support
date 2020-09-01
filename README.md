@@ -7,14 +7,12 @@
 Core engine or module development is preferably done using C++ (which is the language in which the engine is written), for which [the official docs for contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) is a better starting point.
 The languages provided here can be used for *making scripts through the GDNative interface*, which also includes C++, but support for which is different from its use in module development.
 
+
 ## Categories
 
-### (TODO)
-(Per-module support feature legend. Currently, Rust (IIRC) doesn't support the video encoding module.)
-
-### By feature
-- 🧬 Integrated with Godot Engine
-- 🔌 Needs External IDE
+### By editor support
+- 🧬 Supported by the inbuild code editor and providing specific features.
+- 🔌 Supported by a plugin in an external code editor.
 
 ### By maintainer
 - 💍 Official
@@ -22,12 +20,12 @@ The languages provided here can be used for *making scripts through the GDNative
 
 
 ## 🏆 Full support
-1. **[GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html) 💍🧬**
+1. **[GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html) 💍🧬🔌**
 1. **[VisualScript](https://docs.godotengine.org/en/stable/getting_started/scripting/visual_script/index.html) 💍🧬**
 
-  GDScript is actively maintained and documented, and is stable. It is the primary language, has the most tutorials online and has deep in-Godot editor support.
+  GDScript is actively maintained and documented and is stable. It is the primary language, has the most tutorials online, and has deep in-Godot editor support.
 
-  VisualScript can be considered as a secondary scripting language with blocks-and-nodes. It too provides rich support, although there is a community effort to make it more intuitive to use as a design tool instead of what users describe as a one-to-one mapping of code with terse programming jargon where it should be more humanised.
+  VisualScript can be considered as a secondary scripting language with blocks-and-nodes. It too provides rich support, although there is a community effort to make it more intuitive to use as a design tool instead of what users describe as a one-to-one mapping of code with terse programming jargon where it should be more humanized.
 
 ## 🥇 Production Ready
 1. **[Rust](https://github.com/godot-rust/godot-rust) 👥🔌**
@@ -38,7 +36,7 @@ The languages provided here can be used for *making scripts through the GDNative
 
   These languages are documented and stable. Some people use it in production.
 
-  JavaScript support is a 3rd-party module. Modules add built-in support (like GDScript), but require [compiling it into the engine](https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html).
+  JavaScript support is a 3rd-party module. Modules add built-in support (like GDScript) but require [compiling it into the engine](https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html).
   With JavaScript, you also get support for languages that transpile to JavaScript, e.g. TypeScript or CoffeeScript.
 
   C# support is an official module. If you have a Mono-version of Godot Engine, it comes built into the engine.
@@ -48,13 +46,13 @@ The languages provided here can be used for *making scripts through the GDNative
   (C# External Code Editing support is decent. What's it like for the others?)
 
 ## 🥈 Nearly There
-1. **[D](https://github.com/godot-d/godot-d) 👥**
+1. **[D](https://github.com/godot-d/godot-d) 👥🔌**
 2. **[Haskell](https://hackage.haskell.org/package/godot-haskell) 👥🔌**
 
   Stable, not documented.
 
 ## 🥉 Has Potential
-1. **[Python](https://github.com/touilleMan/godot-python) 👥🧬**  
+1. **[Python](https://github.com/touilleMan/godot-python) 👥🧬🔌**  
 1. **[Kotlin](https://github.com/utopia-rise/godot-kotlin) 👥🔌**
 
   Python is the language for which PluginScript, the API that provides Godot-editor support, got designed for. It provides editor integration as GDScript does - it's still in beta.
@@ -63,7 +61,7 @@ The languages provided here can be used for *making scripts through the GDNative
 ## 🏅 Okay, I guess?
 1. **[C++ *GDNative support*](https://github.com/godotengine/godot-cpp) 💍🔌**
 
-  C++ is a bit of a hot potato anywhere, and it is here as well: some people like to use it, but it could use better documention in places. Some peeves such as not being able to use modern C++ features starting from C++11 dwell in this API.
+  C++ is a bit of a hot potato anywhere, and it is here as well: some people like to use it, but it could use better documentation in places. Some peeves such as not being able to use modern C++ features starting from C++11 dwell in this API.
 
 ## Left 4 Dead
 1. **[Go](https://github.com/ShadowApex/godot-go) 👥🔌**
