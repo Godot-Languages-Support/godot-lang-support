@@ -77,6 +77,9 @@ The languages provided here can be used for *making scripts through the GDNative
   It's an attempted PluginScript system, but it's designed poorly with ~15x performance loss vs. GDScript.
   Not documented or stable enough for use.
 
-Games from scratch made a [video](https://youtu.be/VqcMlS-IJl4) about some of the supported languages.
+## Other Useful links
+
+- Gamesfromscratch made a [video](https://youtu.be/VqcMlS-IJl4) about some of the supported languages.
+- (You can expand this list!)
 
 ## Enjoy ^-^
