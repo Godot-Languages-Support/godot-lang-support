@@ -11,8 +11,8 @@ The languages provided here can be used for *making scripts through the GDNative
 ## Categories
 
 ### By editor support
-- 🧬 Godot Engine Integrated Editors (usually possible via PluginScript)
-- 🔌 External IDE or Editor (NativeScript default)
+- 🧬 Supported by the inbuild code editor
+- 🔌 Supported by an external editor plugin.
 
 ### By maintainer
 - 💍 Official
