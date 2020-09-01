@@ -7,14 +7,12 @@
 Core engine or module development is preferably done using C++ (which is the language in which the engine is written), for which [the official docs for contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) is a better starting point.
 The languages provided here can be used for *making scripts through the GDNative interface*, which also includes C++, but support for which is different from its use in module development.
 
+
 ## Categories
 
-### (TODO)
-(Per-module support feature legend. Currently, Rust (IIRC) doesn't support the video encoding module.)
-
-### By feature
-- 🧬 Integrated with Godot Engine
-- 🔌 Needs External IDE
+### By editor support
+- 🧬 Godot Engine Integrated Editors (usually possible via PluginScript)
+- 🔌 External IDE or Editor (NativeScript default)
 
 ### By maintainer
 - 💍 Official
@@ -22,7 +20,7 @@ The languages provided here can be used for *making scripts through the GDNative
 
 
 ## 🏆 Full support
-1. **[GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html) 💍🧬**
+1. **[GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html) 💍🧬🔌**
 1. **[VisualScript](https://docs.godotengine.org/en/stable/getting_started/scripting/visual_script/index.html) 💍🧬**
 
   GDScript is actively maintained and documented, and is stable. It is the primary language, has the most tutorials online and has deep in-Godot editor support.
@@ -48,13 +46,13 @@ The languages provided here can be used for *making scripts through the GDNative
   (C# External Code Editing support is decent. What's it like for the others?)
 
 ## 🥈 Nearly There
-1. **[D](https://github.com/godot-d/godot-d) 👥**
+1. **[D](https://github.com/godot-d/godot-d) 👥🔌**
 2. **[Haskell](https://hackage.haskell.org/package/godot-haskell) 👥🔌**
 
   Stable, not documented.
 
 ## 🥉 Has Potential
-1. **[Python](https://github.com/touilleMan/godot-python) 👥🧬**  
+1. **[Python](https://github.com/touilleMan/godot-python) 👥🧬🔌**  
 1. **[Kotlin](https://github.com/utopia-rise/godot-kotlin) 👥🔌**
 
   Python is the only language integrated via PluginScript. It provides editor integration as GDScript does - it's still in beta.
@@ -68,7 +66,7 @@ The languages provided here can be used for *making scripts through the GDNative
 
 ## Left 4 Dead
 1. **[Go](https://github.com/ShadowApex/godot-go) 👥🔌**
-1. **[Ruby](https://github.com/onyxblade/godot-ruby) 👥🔌**
+1. **[Ruby](https://github.com/onyxblade/godot-ruby) 👥🧬🔌**
   
   Go bindings haven't been updated since 2018.
   Sadly, not documented and stable enough for production.
