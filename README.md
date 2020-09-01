@@ -57,8 +57,7 @@ The languages provided here can be used for *making scripts through the GDNative
 1. **[Python](https://github.com/touilleMan/godot-python) 👥🧬**  
 1. **[Kotlin](https://github.com/utopia-rise/godot-kotlin) 👥🔌**
 
-  Python is the only language integrated via PluginScript. It provides editor integration as GDScript does - it's still in beta.
-
+  Python is the language for which PluginScript, the API that provides Godot-editor support, got designed for. It provides editor integration as GDScript does - it's still in beta.
   Kotlin bindings, while declared unready for production use and still in alpha, are being maintained fairly regularly in 2020.
 
 ## 🏅 Okay, I guess?
@@ -69,7 +68,8 @@ The languages provided here can be used for *making scripts through the GDNative
 ## Left 4 Dead
 1. **[Go](https://github.com/ShadowApex/godot-go) 👥🔌**
 1. **[Ruby](https://github.com/onyxblade/godot-ruby) 👥🔌**
-  
+1. **[Haxe](https://github.com/mrcdk/godot-haxe) 👥🔌**
+
   Go bindings haven't been updated since 2018.
   Sadly, not documented and stable enough for production.
   
