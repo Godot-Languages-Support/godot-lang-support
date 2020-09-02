@@ -11,7 +11,7 @@ The languages provided here can be used for *making scripts through the GDNative
 ## Categories
 
 ### By editor support
-- 🧬 Can be edited inside Godot Engine (includes language bindings which use `PluginScript`).
+- 🧬 Can be edited inside Godot Engine (includes language bindings which use `PluginScript` and the `Script API`).
 - 🔌 Can be edited in an External Editor (includes languages bindings which use `NativeScript`).
 
 ### By maintainer
