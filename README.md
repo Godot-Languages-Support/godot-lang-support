@@ -65,6 +65,7 @@ The languages provided here can be used for *making scripts through the GDNative
 
 ## 🐣 Up and coming
 1. **[Ada](https://github.com/MichaelAllenHardeman/gdnative_ada) 👥🔌**
+1. **[Dart](https://github.com/mahdisml/DartGodot) 👥🔌**
 
   Ada was type-safe before Rust was even born.
   This isn't documented or (probably) stable, but it is still very new.
