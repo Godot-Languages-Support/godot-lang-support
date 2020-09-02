@@ -63,10 +63,19 @@ The languages provided here can be used for *making scripts through the GDNative
 
   C++ is a bit of a hot potato anywhere, and it is here as well: some people like to use it, but it could use better documentation in places. Some peeves such as not being able to use modern C++ features starting from C++11 dwell in this API.
 
+## 🐣 Up and coming
+1. **[Ada](https://github.com/MichaelAllenHardeman/gdnative_ada) 👥🔌**
+
+  Ada was type-safe before Rust was even born.
+  This isn't documented or (probably) stable, but it is still very new.
+
 ## Left 4 Dead
 1. **[Go](https://github.com/ShadowApex/godot-go) 👥🔌**
 1. **[Ruby](https://github.com/onyxblade/godot-ruby) 👥🔌**
 1. **[Haxe](https://github.com/mrcdk/godot-haxe) 👥🔌**
+1. **[AngelScript](https://github.com/Geequlim/AngelScript)👥🔌**
+1. **[Zig](https://github.com/outrera/godot-zig)👥🔌**
+1. **[Object Pascal](https://github.com/BenediktMagnus/godot-object-pascal)👥🔌**
 
   Go bindings haven't been updated since 2018.
   Sadly, not documented and stable enough for production.
@@ -74,6 +83,8 @@ The languages provided here can be used for *making scripts through the GDNative
   Ruby bindings haven't been updated since 2018.
   It's an attempted PluginScript system, but it's designed poorly with ~15x performance loss vs. GDScript.
   Not documented or stable enough for use.
+
+  AngelScript was @Geequlim's first forray into GDNative, before making ECMAScript.
 
 ## Other Useful links
 
