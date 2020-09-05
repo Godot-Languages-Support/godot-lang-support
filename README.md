@@ -36,6 +36,8 @@ The languages provided here can be used for *making scripts through the GDNative
 
   These languages are documented and stable. Some people use it in production.
 
+  Nim has standard NativeScript features for the moment, but wishes to go beyond that by [improving its user experience](https://github.com/pragmagic/godot-nim/issues/66) to automate repetitive boilerplate tasks.
+
   JavaScript support is a 3rd-party module. Modules add built-in support (like GDScript) but require [compiling it into the engine](https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html).
   With JavaScript, you also get support for languages that transpile to JavaScript, e.g. TypeScript or CoffeeScript.
 
@@ -54,9 +56,13 @@ The languages provided here can be used for *making scripts through the GDNative
 ## 🥉 Has Potential
 1. **[Python](https://github.com/touilleMan/godot-python) 👥🧬🔌**  
 1. **[Kotlin](https://github.com/utopia-rise/godot-kotlin) 👥🔌**
+1. **[Go (godot-go)](https://github.com/godot-go/godot-go/) 👥🔌**
 
-  Python is the language for which PluginScript, the API that provides Godot-editor support, got designed for. It provides editor integration as GDScript does - it's still in beta.
+  Python is the language for which PluginScript, the API that provides Godot-editor support, got designed for. It provides editor integration as GDScript does - it's still in beta. Currently, the bottleneck to its stability is its flawed [export system](https://github.com/touilleMan/godot-python/issues/146).
+
   Kotlin bindings, while declared unready for production use and still in alpha, are being maintained fairly regularly in 2020.
+
+  Go bindings from godot-go are a recent project in alpha. There is decent documentation of the build workflow and example scripts. It is actively being developed.
 
 ## 🏅 Okay, I guess?
 1. **[C++ *GDNative support*](https://github.com/godotengine/godot-cpp) 💍🔌**
@@ -71,15 +77,15 @@ The languages provided here can be used for *making scripts through the GDNative
   This isn't documented or (probably) stable, but it is still very new.
 
 ## Left 4 Dead
-1. **[Go](https://github.com/ShadowApex/godot-go) 👥🔌**
+1. **[Go (ShadowApex)](https://github.com/ShadowApex/godot-go) 👥🔌**
 1. **[Ruby](https://github.com/onyxblade/godot-ruby) 👥🔌**
 1. **[Haxe](https://github.com/mrcdk/godot-haxe) 👥🔌**
 1. **[AngelScript](https://github.com/Geequlim/AngelScript)👥🔌**
 1. **[Zig](https://github.com/outrera/godot-zig)👥🔌**
 1. **[Object Pascal](https://github.com/BenediktMagnus/godot-object-pascal)👥🔌**
 
-  Go bindings haven't been updated since 2018.
-  Sadly, not documented and stable enough for production.
+  Go bindings from ShadowApex haven't been updated since 2018.
+  Sadly, not documented or stable enough for production.
   
   Ruby bindings haven't been updated since 2018.
   It's an attempted PluginScript system, but it's designed poorly with ~15x performance loss vs. GDScript.
