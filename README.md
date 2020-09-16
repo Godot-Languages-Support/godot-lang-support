@@ -32,7 +32,7 @@ The languages provided here can be used for *making scripts through the GDNative
 1. **[Nim](https://github.com/pragmagic/godot-nim) 👥🔌**
 1. **[JavaScript](https://github.com/GodotExplorer/ECMAScript) 👥🔌**
 1. **[C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍🔌**
-1. **[Lua](https://github.com/perbone/luascript) 👥🧬🔌**
+
 
   These languages are documented and stable. Some people use it in production.
 
@@ -50,8 +50,9 @@ The languages provided here can be used for *making scripts through the GDNative
 ## 🥈 Nearly There
 1. **[D](https://github.com/godot-d/godot-d) 👥🔌**
 2. **[Haskell](https://hackage.haskell.org/package/godot-haskell) 👥🔌**
+1. **[Lua](https://github.com/perbone/luascript) 👥🧬🔌**
 
-  Stable, not documented.
+  Stable, not documented. Lua currently undergoes a rewrite of its parser. 
 
 ## 🥉 Has Potential
 1. **[Python](https://github.com/touilleMan/godot-python) 👥🧬🔌**  
