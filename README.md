@@ -5,7 +5,6 @@
 ### ⚠ Disclaimer
 
 Engine and module development use C++. For those topics, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
-The languages provided here can be used for *making scripts through the GDNative interface*, which also includes C++, but support for which is different from its use in module development.
 
 In contrast, the languages provided here are for *making scripts* in Godot projects. Godot has many methods for granting language support:
 
