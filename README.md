@@ -40,7 +40,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
   These languages are documented and stable. Some people use it in production.
 
 1. ### [Rust](https://github.com/godot-rust/godot-rust) 👥🔌🔧
-
+    You can find the project homepage [here.](https://godot-rust.github.io/)
 1. ### [Nim](https://github.com/pragmagic/godot-nim) 👥🔌🔧
     Nim has standard NativeScript features for the moment, but wishes to go beyond that by [improving its user experience](https://github.com/pragmagic/godot-nim/issues/66) to automate repetitive boilerplate tasks.
 
