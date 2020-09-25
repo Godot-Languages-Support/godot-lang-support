@@ -1,6 +1,6 @@
 # 🗺 Godot Languages Support
 
-*A community-maintained list of languages with bindings for making scripts in Godot Engine.*
+*A community-maintained list of Language Support Projects for Godot Engine.*
 
 ### ⚠ Disclaimer
 
@@ -11,7 +11,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 - **Modules:** Maintainers/Developers define custom implementations of Godot's `Script`, `ScriptInstance`, and `ScriptLanguage` types in a module. Users add the module to the engine source code and compile the engine themselves (or a developer may provide precompiled binaries). Now you have a new built-in language.
 - **PluginScript:** Maintainers/Developers write an EditorPlugin addon which teaches the Editor how to understand the target language as a `ScriptLanguage`. Users should only need to download the addon. Powered by Godot's *GDNative C interface* module.
 - **NativeScript:** Maintainers write tools to generate and build "bindings" in the target language. Developers use the tools to create bindings, write scripts, and compile them into a native library for an addon. Users download the addon and use the native scripts in their projects. To write custom functionality, most people are both Developers and Users. Powered by Godot's *GDNative C interface* module.
-    - Note: The Developer role's complexity is dependent on the quality of the Maintainer's tools. As such, it is language-dependent. Usually, they are difficult. Your mileage may vary.
+    - Note: The Developer role's complexity is dependent on the quality of the Maintainer's tools. As such, it is language-dependent. Usually, they are difficult. Your mileage may vary!
 
 ## Categories
 
