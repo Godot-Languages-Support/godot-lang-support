@@ -59,7 +59,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
   Stable, not documented.
 1. ### [D](https://github.com/godot-d/godot-d) 👥 🔌 🔧
 1. ### [Haskell](https://hackage.haskell.org/package/godot-haskell) 👥 🔌 🔧
-1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 🔧
+1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
     Lua is currently undergoing a rewrite of its parser. 
 
 ## 🥉 Has Potential
