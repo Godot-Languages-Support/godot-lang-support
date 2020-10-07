@@ -4,13 +4,13 @@
 
 ### ⚠ Disclaimer
 
-Engine and module development use C++. For those topics, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
+The engine and modules are developed in C++. For those topics, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
 
 In contrast, the languages provided here are for *making scripts* in Godot projects. Godot has many methods for granting language support:
 
 - **Modules:** Maintainers/Developers define custom implementations of Godot's `Script`, `ScriptInstance`, and `ScriptLanguage` types in a module. Users add the module to the engine source code and compile the engine themselves (or a developer may provide precompiled binaries). Now you have a new built-in language.
-- **PluginScript:** Maintainers/Developers write an EditorPlugin addon which teaches the Editor how to understand the target language as a `ScriptLanguage`. Users should only need to download the addon. Powered by Godot's *GDNative C interface* module.
-- **NativeScript:** Maintainers write tools to generate and build "bindings" in the target language. Developers use the tools to create bindings, write scripts, and compile them into a native library for an addon. Users download the addon and use the native scripts in their projects. To write custom functionality, most people are both Developers and Users. Powered by Godot's *GDNative C interface* module.
+- **PluginScript:** Maintainers/Developers write an EditorPlugin addon which teaches the Editor how to understand the target language as a `ScriptLanguage`. Users should only need to download the addon. Powered by Godot's *[GDNative](https://docs.godotengine.org/en/latest/tutorials/plugins/gdnative/what_is_gdnative.html) C interface* module.
+- **NativeScript:** Maintainers write tools to generate and build "bindings" in the target language. Developers use the tools to create bindings, write scripts, and compile them into a native library for an addon. Users download the addon and use the native scripts in their projects. To write custom functionality, most people are both Developers and Users. Powered by Godot's *[GDNative](https://docs.godotengine.org/en/latest/tutorials/plugins/gdnative/what_is_gdnative.html) C interface* module.
     - Note: The Developer role's complexity is dependent on the quality of the Maintainer's tools. As such, it is language-dependent. Usually, they are difficult. Your mileage may vary!
 
 ## Categories
@@ -60,7 +60,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [D](https://github.com/godot-d/godot-d) 👥 🔌 🔧
 1. ### [Haskell](https://hackage.haskell.org/package/godot-haskell) 👥 🔌 🔧
 1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
-    Lua is currently undergoing a rewrite of its parser. 
+    Lua is currently undergoing a rewrite of its parser.
 
 ## 🥉 Has Potential
 1. ### [Python](https://github.com/touilleMan/godot-python) 👥 🧬 🔌 📜
@@ -91,7 +91,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Go (ShadowApex)](https://github.com/ShadowApex/godot-go) 👥 🔌 🔧
     Go bindings from ShadowApex haven't been updated since 2018. Not documented or stable enough for production.
 
-1. ### [Ruby](https://github.com/onyxblade/godot-ruby) 👥 🔌 🔧 
+1. ### [Ruby](https://github.com/onyxblade/godot-ruby) 👥 🔌 🔧
     Ruby bindings haven't been updated since 2018.
     It's an attempted PluginScript system, but it's designed poorly with ~15x performance loss vs. GDScript.
     Not documented or stable enough for use.
