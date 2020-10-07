@@ -84,6 +84,9 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Dart](https://github.com/mahdisml/DartGodot) 👥 🔌 🏄
     Uses Godot's C# API to make calls to Dart script code. Has code for generating scripts.
 
+1. ### [Clojure](https://github.com/arcadia-unity/ArcadiaGodot)
+    Alpha quality, in its infancy. Actively maintained. 
+
 ## Left 4 Dead
 1. ### [Go (ShadowApex)](https://github.com/ShadowApex/godot-go) 👥 🔌 🔧
     Go bindings from ShadowApex haven't been updated since 2018. Not documented or stable enough for production.
