@@ -52,7 +52,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
     C# support is an official module. If you have a Mono-version of Godot Engine, it comes built into the engine.
     Most people are using the [VSCode](https://github.com/godotengine/godot-csharp-vscode) extension.
 
-1. ### F#, Clojure and other .Net languages 💍/👥 ⚙️ 🏄 
+1. ### [F#](https://github.com/willnationsdev/godot-fsharp-tools) Clojure and other .Net languages 💍/👥 ⚙️ 🏄 
    With C#, you also get support for integrating other Mono-supported languages, e.g. F# or VisualBasic. But, Godot currently hardcodes C# usage. Any class attached to a Node or Resource must be a C# script.
    For tools to facilitate the use of F# with Godot's C# scripts, see [Godot F# Tools](https://github.com/willnationsdev/godot-fsharp-tools).
 
