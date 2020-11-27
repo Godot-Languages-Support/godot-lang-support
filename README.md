@@ -41,16 +41,20 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 
 1. ### [Rust](https://github.com/godot-rust/godot-rust) 👥 🔌 🔧
     You can find the project homepage [here.](https://godot-rust.github.io/)
+
 1. ### [Nim](https://github.com/pragmagic/godot-nim) 👥 🔌 🔧
     Nim has standard NativeScript features for the moment, but wishes to go beyond that by [improving its user experience](https://github.com/pragmagic/godot-nim/issues/66) to automate repetitive boilerplate tasks.
+
+1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
+    C# support is an official module. If you have a Mono-version of Godot Engine, it comes built into the engine.
+    Most people are using the [VSCode](https://github.com/godotengine/godot-csharp-vscode) extension.
 
 1. ### [JavaScript](https://github.com/GodotExplorer/ECMAScript) 👥 🔌 ⚙️
     JavaScript support is a 3rd-party module. Modules add built-in support (like GDScript) but require [compiling it into the engine](https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html).
     With JavaScript, you also get support for languages that transpile to JavaScript, like [TypeScript](https://www.typescriptlang.org/) or [CoffeeScript](https://coffeescript.org/) and [F# Fable](https://fable.io/).
 
-1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
-    C# support is an official module. If you have a Mono-version of Godot Engine, it comes built into the engine.
-    Most people are using the [VSCode](https://github.com/godotengine/godot-csharp-vscode) extension.
+1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
+    Lua is currently undergoing a rewrite of its parser.
 
 1. ### [F#](https://github.com/willnationsdev/godot-fsharp-tools), Clojure and other .Net languages 💍/👥 ⚙️ 🏄 
    With C#, you also get support for integrating other Mono-supported languages, e.g. F# or VisualBasic. But, Godot currently hardcodes C# usage. Any class attached to a Node or Resource must be a C# script.
@@ -59,9 +63,9 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 ## 🥈 Nearly There
   Stable, not documented.
 1. ### [D](https://github.com/godot-d/godot-d) 👥 🔌 🔧
+
 1. ### [Haskell](https://hackage.haskell.org/package/godot-haskell) 👥 🔌 🔧
-1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
-    Lua is currently undergoing a rewrite of its parser.
+
 
 ## 🥉 Has Potential
 1. ### [Python](https://github.com/touilleMan/godot-python) 👥 🧬 🔌 📜
