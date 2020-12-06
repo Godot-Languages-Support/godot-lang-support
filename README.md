@@ -78,7 +78,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    Python is the language for which PluginScript, the API that provides Godot-editor support, got designed for. It provides editor integration as GDScript does - it's still in beta. Currently, the bottleneck to its stability is its flawed [export system](https://github.com/touilleMan/godot-python/issues/146).
    PyCharm is another way of doing Python for Godot, and this one supports [visual debugging](https://medium.com/@prokopst/debugging-godot-python-with-pycharm-b5f9dd2cf769)
 
-1. ### [Kotlin](https://github.com/utopia-rise/godot-jvm)
+1. ### [Kotlin JVM](https://github.com/utopia-rise/godot-jvm)
    Still in development. Incomplete and good performance characteristics. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly. 
 
 1. ### [Go (godot-go)](https://github.com/godot-go/godot-go/) 👥 🔌 🔧
@@ -106,7 +106,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Go (ShadowApex)](https://github.com/ShadowApex/godot-go) 👥 🔌 🔧
    Go bindings from ShadowApex haven't been updated since 2018. Not documented or stable enough for production.
 
-1. ### [Kotlin](https://github.com/utopia-rise/godot-kotlin) 👥 🔌 🔧
+1. ### [Kotlin Native](https://github.com/utopia-rise/godot-kotlin) 👥 🔌 🔧
    Kotlin Native bindings are declared unready for production use and deprecated due to performance problems. Although, it was feature complete at the time of the drop.
    Here is the old [documentation](https://godot-kotl.in/en/latest/) of it.
 
