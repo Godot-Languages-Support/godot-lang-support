@@ -103,8 +103,8 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 
 1. ### [Smalltalk](https://gitlab.com/chandler.justin.s/godot-talk-VM) 👥 🔌 🏄
    Pre-alpha, features added daily. Uses a custom C# VM to interpret arbitrary
-   bytecode written directly to memory from a Pharo Smalltalk library. Cuis Smalltalk 
-   support planned. [Discord server available.](https://discord.gg/xkZEQrb3Xn)
+   bytecode from a Pharo Smalltalk library. Cuis Smalltalk support planned.
+   [Discord server available.](https://discord.gg/xkZEQrb3Xn)
 
 ## Left 4 Dead
 
