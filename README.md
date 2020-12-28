@@ -101,6 +101,11 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Clojure](https://github.com/arcadia-unity/ArcadiaGodot)
    Alpha quality, in its infancy. Actively maintained. 
 
+1. ### [Smalltalk](https://gitlab.com/chandler.justin.s/godot-talk-VM) 👥 🔌 🏄
+   Pre-alpha, features added daily. Uses a custom C# VM to interpret arbitrary
+   bytecode from a Pharo Smalltalk library. Cuis Smalltalk support planned.
+   [Discord server available.](https://discord.gg/xkZEQrb3Xn)
+
 ## Left 4 Dead
 
 1. ### [Go (ShadowApex)](https://github.com/ShadowApex/godot-go) 👥 🔌 🔧
