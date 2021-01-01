@@ -77,7 +77,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    Python is the language for which PluginScript, the API that provides Godot-editor support, got designed for. It provides editor integration as GDScript does - it's still in beta. Currently, the bottleneck to its stability is its flawed [export system](https://github.com/touilleMan/godot-python/issues/146).
    PyCharm is another way of doing Python for Godot, and this one supports [visual debugging](https://medium.com/@prokopst/debugging-godot-python-with-pycharm-b5f9dd2cf769)
 
-1. ### [Kotlin JVM](https://github.com/utopia-rise/godot-jvm)
+1. ### [Kotlin JVM](https://github.com/utopia-rise/godot-jvm) 👥 🔌 ⚙️
    Still in development. Incomplete and good performance characteristics. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly. 
 
 1. ### [F#](https://github.com/willnationsdev/godot-fsharp-tools) 👥 🔌 🏄 
