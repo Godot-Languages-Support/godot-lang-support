@@ -57,10 +57,6 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
    Lua is currently undergoing a rewrite of its parser.
 
-1. ### [F#](https://github.com/willnationsdev/godot-fsharp-tools), Clojure and other .Net languages 💍/👥 ⚙️ 🏄 
-   With C#, you also get support for integrating other Mono-supported languages, e.g. F# or VisualBasic. But, Godot currently hardcodes C# usage. Any class attached to a Node or Resource must be a C# script.
-   For tools to facilitate the use of F# with Godot's C# scripts, see [Godot F# Tools](https://github.com/willnationsdev/godot-fsharp-tools).
-
 ## 🥈 Nearly There
    Stable and not documented yet.
 
@@ -71,6 +67,9 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Haskell](https://hackage.haskell.org/package/godot-haskell) 👥 🔌 🔧
    Maintained by the SimulaVR folks. Feature complete and undocumented. 
 
+1. ### [Clojure](https://github.com/arcadia-unity/ArcadiaGodot) 👥 🔌 🏄
+   Based on Mono. No API documentation. Usable and community supported. 
+
 ## 🥉 Has Potential
    Early in active development.
 
@@ -80,6 +79,10 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 
 1. ### [Kotlin JVM](https://github.com/utopia-rise/godot-jvm)
    Still in development. Incomplete and good performance characteristics. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly. 
+
+1. ### [F#](https://github.com/willnationsdev/godot-fsharp-tools) 👥 🔌 🏄 
+   With C#, you also get support for integrating other Mono-supported languages, e.g. F# or VisualBasic. But, Godot currently hardcodes C# usage. Any class attached to a Node or Resource must be a C# script.
+   For tools to facilitate the use of F# with Godot's C# scripts, see [Godot F# Tools](https://github.com/willnationsdev/godot-fsharp-tools).
 
 1. ### [Go (godot-go)](https://github.com/godot-go/godot-go/) 👥 🔌 🔧
    Go bindings from godot-go are a recent project in alpha. There is decent documentation of the build workflow and example scripts. It is actively being developed.
@@ -97,9 +100,6 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 
 1. ### [Dart](https://github.com/mahdisml/DartGodot) 👥 🔌 🏄
    Uses Godot's C# API to make calls to Dart script code. Has code for generating scripts.
-
-1. ### [Clojure](https://github.com/arcadia-unity/ArcadiaGodot)
-   Alpha quality, in its infancy. Actively maintained. 
 
 1. ### [Smalltalk](https://gitlab.com/chandler.justin.s/godot-talk-VM) 👥 🔌 🏄
    Pre-alpha, features added daily. Uses a custom C# VM to interpret arbitrary
