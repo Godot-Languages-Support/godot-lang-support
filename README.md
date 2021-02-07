@@ -38,7 +38,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    VisualScript can be considered as a secondary scripting language with blocks-and-nodes. It too provides rich support, although there is a community effort to make it more intuitive to use as a design tool instead of what users describe as a one-to-one mapping of code with terse programming jargon where it should be more humanized.
 
 ## 🥇 Production Ready
-   These languages are documented and stable. Some people use it in production.
+   These languages are documented and stable. Some people use these in production.
 
 1. ### [Rust](https://github.com/godot-rust/godot-rust) 👥 🔌 🔧
    You can find the project homepage [here.](https://godot-rust.github.io/)
@@ -71,7 +71,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    Based on Mono. No API documentation. Usable and community supported. 
 
 ## 🥉 Has Potential
-   Early in active development.
+   In active development, comparable to being in beta stage.
 
 1. ### [Python](https://github.com/touilleMan/godot-python) 👥 🧬 🔌 📜
    Python is the language for which PluginScript, the API that provides Godot-editor support, got designed for. It provides editor integration as GDScript does - it's still in beta. Currently, the bottleneck to its stability is its flawed [export system](https://github.com/touilleMan/godot-python/issues/146).
@@ -88,11 +88,13 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    Go bindings from godot-go are a recent project in alpha. There is decent documentation of the build workflow and example scripts. It is actively being developed.
 
 ## 🏅 Okay, I guess?
+Potential [skub](https://knowyourmeme.com/memes/skub).
 
 1. ### [C++ *GDNative support*](https://github.com/godotengine/godot-cpp) 💍 🔌 🔧
    C++ is a bit of a hot potato anywhere, and it is here as well: some people like to use it, but it could use better documentation in places. Some peeves such as not being able to use modern C++ features starting from C++11 dwell in this API.
 
 ## 🐣 Up and coming
+Comparable to being in alpha stage.
 
 1. ### [Ada](https://github.com/MichaelAllenHardeman/gdnative_ada) 👥 🔌 🔧
    Ada was type-safe before Rust was even born.
