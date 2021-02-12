@@ -97,7 +97,6 @@ Potential [skub](https://knowyourmeme.com/memes/skub).
 Comparable to being in alpha stage.
 
 1. ### [Ada](https://github.com/MichaelAllenHardeman/gdnative_ada) 👥 🔌 🔧
-   Ada was type-safe before Rust was even born.
    This isn't documented or (probably) stable, but it is still very new.
 
 1. ### [Dart](https://github.com/mahdisml/DartGodot) 👥 🔌 🏄
