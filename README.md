@@ -78,7 +78,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    PyCharm is another way of doing Python for Godot, and this one supports [visual debugging](https://medium.com/@prokopst/debugging-godot-python-with-pycharm-b5f9dd2cf769)
 
 1. ### [Kotlin JVM](https://github.com/utopia-rise/godot-jvm) 👥 🔌 ⚙️
-   Still in development. Incomplete and good performance characteristics. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly. 
+   Currently in [Pre-Alpha](https://github.com/utopia-rise/godot-jvm/blob/master/docs/src/doc/pre-alpha.md). Incomplete, but with documentation and good performance characteristics. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
 
 1. ### [F#](https://github.com/willnationsdev/godot-fsharp-tools) 👥 🔌 🏄 
    With C#, you also get support for integrating other Mono-supported languages, e.g. F# or VisualBasic. But, Godot currently hardcodes C# usage. Any class attached to a Node or Resource must be a C# script.
