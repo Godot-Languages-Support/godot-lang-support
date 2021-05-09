@@ -107,7 +107,7 @@ Comparable to being in alpha stage.
    bytecode from a Pharo Smalltalk library. Cuis Smalltalk support planned.
    [Discord server available.](https://discord.gg/xkZEQrb3Xn)
 
-## Left 4 Dead
+## ⚰️ Left 4 Dead
 
 1. ### [Go (ShadowApex)](https://github.com/ShadowApex/godot-go) 👥 🔌 🔧
    Go bindings from ShadowApex haven't been updated since 2018. Not documented or stable enough for production.
@@ -130,7 +130,7 @@ Comparable to being in alpha stage.
 
 1. ### [Object Pascal](https://github.com/BenediktMagnus/godot-object-pascal) 👥 🔌 🔧
 
-## Other Useful links
+## 🌐 Other Useful links
 
 - Gamesfromscratch made a [video](https://youtu.be/VqcMlS-IJl4) about some of the supported languages.
 - (You can expand this list!)
