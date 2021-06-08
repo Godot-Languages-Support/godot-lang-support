@@ -109,6 +109,9 @@ Comparable to being in alpha stage.
 
 ## ⚰️ Left 4 Dead
 
+1. ### [Crystal](https://github.com/kalinon/godot-crystal) 👥 🔌 ⚙️
+   Mentions nothing about its usability, unmaintained since over 2 years.
+
 1. ### [Go (ShadowApex)](https://github.com/ShadowApex/godot-go) 👥 🔌 🔧
    Go bindings from ShadowApex haven't been updated since 2018. Not documented or stable enough for production.
 
