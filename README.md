@@ -103,7 +103,7 @@ Comparable to being in alpha stage.
    Uses Godot's C# API to make calls to Dart script code. Has code for generating scripts.
 
 1. ### [Smalltalk](https://gitlab.com/chandler.justin.s/godot-talk-VM) 👥 🔌 🏄
-   Pre-alpha, features added daily. Uses a custom C# VM to interpret arbitrary
+   Used in production, still certain core features missing. Uses a custom C# VM to interpret arbitrary
    bytecode from a Pharo Smalltalk library. Cuis Smalltalk support planned.
    [Discord server available.](https://discord.gg/xkZEQrb3Xn)
 
