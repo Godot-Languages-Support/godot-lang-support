@@ -40,12 +40,6 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 ## 🥇 Production Ready
    These languages are documented and stable. Some people use these in production.
 
-1. ### [Rust](https://github.com/godot-rust/godot-rust) 👥 🔌 🔧
-   You can find the project homepage [here.](https://godot-rust.github.io/)
-
-1. ### [Nim](https://github.com/pragmagic/godot-nim) 👥 🔌 🔧
-   Nim has standard NativeScript features for the moment, but wishes to go beyond that by [improving its user experience](https://github.com/pragmagic/godot-nim/issues/66) to automate repetitive boilerplate tasks.
-
 1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
    C# support is an official module. If you have a Mono-version of Godot Engine, it comes built into the engine.
    Most people are using the [VSCode](https://github.com/godotengine/godot-csharp-vscode) extension.
@@ -57,8 +51,17 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
    Lua is currently undergoing a rewrite of its parser.
 
+1. ### [Nim](https://github.com/pragmagic/godot-nim) 👥 🔌 🔧
+   Nim has standard NativeScript features for the moment, but wishes to go beyond that by [improving its user experience](https://github.com/pragmagic/godot-nim/issues/66) to automate repetitive boilerplate tasks.
+
+1. ### [Rust](https://github.com/godot-rust/godot-rust) 👥 🔌 🔧
+   You can find the project homepage [here.](https://godot-rust.github.io/)
+
 ## 🥈 Nearly There
    Stable and not documented yet.
+
+1. ### [Clojure](https://github.com/arcadia-unity/ArcadiaGodot) 👥 🔌 🏄
+   Based on Mono. No API documentation. Usable and community supported. 
 
 1. ### [D](https://github.com/godot-d/godot-d) 👥 🔌 🔧
    Maintained by Sheep. Available in the official Discord channel. 
@@ -67,28 +70,25 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Haskell](https://hackage.haskell.org/package/godot-haskell) 👥 🔌 🔧
    Maintained by the SimulaVR folks. Feature complete and undocumented. 
 
-1. ### [Clojure](https://github.com/arcadia-unity/ArcadiaGodot) 👥 🔌 🏄
-   Based on Mono. No API documentation. Usable and community supported. 
-
 ## 🥉 Has Potential
    In active development, comparable to being in beta stage.
-   
-1. ### [Swift](https://github.com/kelvin13/godot-swift) 👥 🔌 🔧
-   Provides bindings and a Swift Package Manager-powered build system for creating Godot native libraries from Swift frameworks. GDScript APIs are written in terms of Swift protocols and generics, allowing for seamless Swift-to-Godot interoperability. Automates nearly all of the process of registering types and members with the Godot runtime, and ships with an expressive, SIMD-accelerated math library. Has comprehensive [API documentation](https://kelvin13.github.io/godot-swift/) and [tutorials](https://github.com/kelvin13/godot-swift/tree/master/examples).
+
+1. ### [F#](https://github.com/willnationsdev/godot-fsharp-tools) 👥 🔌 🏄 
+   With C#, you also get support for integrating other Mono-supported languages, e.g. F# or VisualBasic. But, Godot currently hardcodes C# usage. Any class attached to a Node or Resource must be a C# script.
+   For tools to automate the use of F# with Godot's C# scripts, see [Godot F# Tools](https://github.com/willnationsdev/godot-fsharp-tools).
+
+1. ### [Go (godot-go)](https://github.com/godot-go/godot-go/) 👥 🔌 🔧
+   Go bindings from godot-go are a recent project in alpha. There is decent documentation of the build workflow and example scripts. It is actively being developed.
+
+1. ### [Kotlin JVM](https://github.com/utopia-rise/godot-jvm) 👥 🔌 ⚙️
+   Currently in [Pre-Alpha](https://github.com/utopia-rise/godot-jvm/blob/master/docs/src/doc/pre-alpha.md). Incomplete, but with documentation and good performance characteristics. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
 
 1. ### [Python](https://github.com/touilleMan/godot-python) 👥 🧬 🔌 📜
    Python is the language for which PluginScript, the API that provides Godot-editor support, got designed for. It provides editor integration as GDScript does - it's still in beta. Currently, the bottleneck to its stability is its flawed [export system](https://github.com/touilleMan/godot-python/issues/146).
    PyCharm is another way of doing Python for Godot, and this one supports [visual debugging](https://medium.com/@prokopst/debugging-godot-python-with-pycharm-b5f9dd2cf769)
 
-1. ### [Kotlin JVM](https://github.com/utopia-rise/godot-jvm) 👥 🔌 ⚙️
-   Currently in [Pre-Alpha](https://github.com/utopia-rise/godot-jvm/blob/master/docs/src/doc/pre-alpha.md). Incomplete, but with documentation and good performance characteristics. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
-
-1. ### [F#](https://github.com/willnationsdev/godot-fsharp-tools) 👥 🔌 🏄 
-   With C#, you also get support for integrating other Mono-supported languages, e.g. F# or VisualBasic. But, Godot currently hardcodes C# usage. Any class attached to a Node or Resource must be a C# script.
-   For tools to facilitate the use of F# with Godot's C# scripts, see [Godot F# Tools](https://github.com/willnationsdev/godot-fsharp-tools).
-
-1. ### [Go (godot-go)](https://github.com/godot-go/godot-go/) 👥 🔌 🔧
-   Go bindings from godot-go are a recent project in alpha. There is decent documentation of the build workflow and example scripts. It is actively being developed.
+1. ### [Swift](https://github.com/kelvin13/godot-swift) 👥 🔌 🔧
+   Provides bindings and a Swift Package Manager-powered build system for creating Godot native libraries from Swift frameworks. GDScript APIs are written in terms of Swift protocols and generics, allowing for seamless Swift-to-Godot interoperability. Automates nearly all of the process of registering types and members with the Godot runtime, and ships with an expressive, SIMD-accelerated math library. Has comprehensive [API documentation](https://kelvin13.github.io/godot-swift/) and [tutorials](https://github.com/kelvin13/godot-swift/tree/master/examples).
 
 ## 🏅 Okay, I guess?
 Potential [skub](https://knowyourmeme.com/memes/skub).
@@ -112,29 +112,29 @@ Comparable to being in alpha stage.
 
 ## ⚰️ Left 4 Dead
 
+1. ### [AngelScript](https://github.com/Geequlim/AngelScript)👥 🔌 🔧
+   AngelScript was @Geequlim's first forray into GDNative, before making the ECMAScript bindings.
+
 1. ### [Crystal](https://github.com/kalinon/godot-crystal) 👥 🔌 ⚙️
    Mentions nothing about its usability, unmaintained since over 2 years.
 
 1. ### [Go (ShadowApex)](https://github.com/ShadowApex/godot-go) 👥 🔌 🔧
    Go bindings from ShadowApex haven't been updated since 2018. Not documented or stable enough for production.
 
+1. ### [Haxe](https://github.com/mrcdk/godot-haxe) 👥 🔌 🔧
+
 1. ### [Kotlin Native](https://github.com/utopia-rise/godot-kotlin) 👥 🔌 🔧
    Kotlin Native bindings are declared unready for production use and deprecated due to performance problems. Although, it was feature complete at the time of the drop.
    Here is the old [documentation](https://godot-kotl.in/en/latest/) of it.
+
+1. ### [Object Pascal](https://github.com/BenediktMagnus/godot-object-pascal) 👥 🔌 🔧
 
 1. ### [Ruby](https://github.com/onyxblade/godot-ruby) 👥 🔌 🔧
    Ruby bindings haven't been updated since 2018.
    It's an attempted PluginScript system, but it's designed poorly with ~15x performance loss vs. GDScript.
    Not documented or stable enough for use.
 
-1. ### [Haxe](https://github.com/mrcdk/godot-haxe) 👥 🔌 🔧
-
-1. ### [AngelScript](https://github.com/Geequlim/AngelScript)👥 🔌 🔧
-   AngelScript was @Geequlim's first forray into GDNative, before making the ECMAScript bindings.
-
 1. ### [Zig](https://github.com/outrera/godot-zig) 👥 🔌 🔧
-
-1. ### [Object Pascal](https://github.com/BenediktMagnus/godot-object-pascal) 👥 🔌 🔧
 
 ## 🌐 Other Useful links
 
