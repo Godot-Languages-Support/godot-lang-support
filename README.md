@@ -57,7 +57,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Rust](https://github.com/godot-rust/godot-rust) 👥 🔌 🔧
    You can find the project homepage [here.](https://godot-rust.github.io/)
 
-1. 1. ### [TypeScript](https://github.com/GodotExplorer/ECMAScript) 👥 🔌 ⚙️
+1. ### [TypeScript](https://github.com/GodotExplorer/ECMAScript) 👥 🔌 ⚙️
    The same project that supports JavaScript, also supports TypeScript. In contrast to other 'compile to JavaScript' languages like Fable, does that mean that you get in-Editor support in Godot.
    It is also implemented as a 3rd-party module. Modules ask you to [compile them into the engine](https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html).
    
