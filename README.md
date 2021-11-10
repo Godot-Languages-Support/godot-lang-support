@@ -73,6 +73,9 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 
 1. ### [Haskell](https://hackage.haskell.org/package/godot-haskell) 👥 🔌 🔧
    Maintained by the SimulaVR folks. Feature complete and undocumented. 
+   
+1. ### [Haxe/C#](https://lib.haxe.org/p/godot) 👥 🔌 🏄
+   Haxe/C# externs, expose almost all of the C# API.
 
 ## 🥉 Has Potential
    In active development, comparable to being in beta stage.
