@@ -75,7 +75,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    Maintained by the SimulaVR folks. Feature complete and undocumented. 
    
 1. ### [Haxe/C#](https://lib.haxe.org/p/godot) 👥 🔌 🏄
-   Haxe/C# externs, expose almost all of the C# API.
+   Provides Haxe/C# bindings to the mono module, exposing almost all of the C# API. It has a small [editor plugin](https://github.com/HaxeGodot/editor-plugin) to help attach a Haxe script to nodes.
 
 ## 🥉 Has Potential
    In active development, comparable to being in beta stage.
