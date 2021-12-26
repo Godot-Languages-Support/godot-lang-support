@@ -48,7 +48,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    JavaScript support is a 3rd-party module. Modules add built-in support (like GDScript) but require [compiling it into the engine](https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html).
    With JavaScript, you also get support for languages that transpile to JavaScript, like [CoffeeScript](https://coffeescript.org/) and [F# Fable](https://fable.io/).
 
-1. ### [Lua] (https://github.com/gilzoide/godot-lua-pluginscript) 👥 🧬 🔌 📜
+1. ### [Lua](https://github.com/gilzoide/godot-lua-pluginscript) 👥 🧬 🔌 📜
    This version of Lua uses PluginScript, so you dont need to recompile the engine.
 
 1. ### [Nim](https://github.com/pragmagic/godot-nim) 👥 🔌 🔧
