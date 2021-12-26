@@ -48,8 +48,8 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    JavaScript support is a 3rd-party module. Modules add built-in support (like GDScript) but require [compiling it into the engine](https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html).
    With JavaScript, you also get support for languages that transpile to JavaScript, like [CoffeeScript](https://coffeescript.org/) and [F# Fable](https://fable.io/).
 
-1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
-   Lua is currently undergoing a rewrite of its parser.
+1. ### [Lua] (https://github.com/gilzoide/godot-lua-pluginscript) 👥 🧬 🔌 📜
+   This version of Lua uses PluginScript, so you dont need to recompile the engine.
 
 1. ### [Nim](https://github.com/pragmagic/godot-nim) 👥 🔌 🔧
    Nim has standard NativeScript features for the moment, but wishes to go beyond that by [improving its user experience](https://github.com/pragmagic/godot-nim/issues/66) to automate repetitive boilerplate tasks.
@@ -76,6 +76,9 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    
 1. ### [Haxe/C#](https://lib.haxe.org/p/godot) 👥 🔌 🏄
    Provides Haxe/C# bindings to the mono module, exposing almost all of the C# API. It has a small [editor plugin](https://github.com/HaxeGodot/editor-plugin) to help attach a Haxe script to nodes.
+
+1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
+   This version of Lua is currently undergoing a rewrite of its parser.
 
 ## 🥉 Has Potential
    In active development, comparable to being in beta stage.
