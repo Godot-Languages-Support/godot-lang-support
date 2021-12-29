@@ -1,6 +1,7 @@
 # 🗺 Godot Languages Support
 
-*A community-maintained list of Language Support Projects for Godot Engine.*
+*A community-maintained list of Language Support Projects for Godot Engine.*\
+([Link to Godot Engine Wikipedia references section!](https://en.wikipedia.org/wiki/Godot_(game_engine)#References))
 
 ### ⚠ Disclaimer
 
