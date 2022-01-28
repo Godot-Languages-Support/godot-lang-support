@@ -1,7 +1,6 @@
 # 🗺 Godot Languages Support
 
 *A community-maintained list of Language Support Projects for Godot Engine.*\
-([Link to Godot Engine Wikipedia references section!](https://en.wikipedia.org/wiki/Godot_(game_engine)#References))
 
 ### ⚠ Disclaimer
 
@@ -149,6 +148,7 @@ Comparable to being in alpha stage.
 
 ## 🌐 Other Useful links
 
+- See the language/scripting section on [Wikipedia.](https://en.wikipedia.org/wiki/Godot_(game_engine)#Scripting)
 - Gamesfromscratch made a [video](https://youtu.be/VqcMlS-IJl4) about some of the supported languages.
 - (You can expand this list!)
 
