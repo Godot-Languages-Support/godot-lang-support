@@ -71,14 +71,14 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    Maintained by Sheep. Available in the official Discord channel. 
    It is feature complete, performant and pretty much without any documentation.
 
-1. ### [Haskell](https://github.com/SimulaVR/godot-haskell) see 👥 🔌 🔧
+1. ### [Haskell](https://github.com/SimulaVR/godot-haskell) 👥 🔌 🔧
    Maintained by the SimulaVR folks. Feature complete and rudimentary documented. 
    
 1. ### [Haxe/C#](https://lib.haxe.org/p/godot) 👥 🔌 🏄
    Provides Haxe/C# bindings to the mono module, exposing almost all of the C# API. It has a small [editor plugin](https://github.com/HaxeGodot/editor-plugin) to help attach a Haxe script to nodes.
 
 1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
-   This version of Lua is currently undergoing a rewrite of its parser.
+   This version of Lua is currently undergoing a rewrite of the construction of the AST and the static analyzer.
 
 ## 🥉 Has Potential
    In active development, comparable to being in beta stage.
