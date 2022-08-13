@@ -100,6 +100,9 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Swift](https://github.com/kelvin13/godot-swift) 👥 🔌 🔧
    Provides bindings and a Swift Package Manager-powered build system for creating Godot native libraries from Swift frameworks. GDScript APIs are written in terms of Swift protocols and generics, allowing for seamless Swift-to-Godot interoperability. Automates nearly all of the process of registering types and members with the Godot runtime, and ships with an expressive, SIMD-accelerated math library. Has comprehensive [API documentation](https://kelvin13.github.io/godot-swift/) and [tutorials](https://github.com/kelvin13/godot-swift/tree/master/examples).
 
+1. ### [Zig](https://github.com/thimenesup/GodotZigBindings) 👥 🔌 🔧
+   Almost feature complete, with room for some improvements, quite usable as is, except for some issues that root from the Zig compiler and C ABI code gen compatibility.
+
 ## 🏅 Okay, I guess?
 Potential [skub](https://knowyourmeme.com/memes/skub).
 
@@ -143,8 +146,6 @@ Comparable to being in alpha stage.
    Ruby bindings haven't been updated since 2018.
    It's an attempted PluginScript system, but it's designed poorly with ~15x performance loss vs. GDScript.
    Not documented or stable enough for use.
-
-1. ### [Zig](https://github.com/outrera/godot-zig) 👥 🔌 🔧
 
 ## 🌐 Other Useful links
 
