@@ -40,9 +40,9 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 ## 🥇 Production Ready
    These languages are documented and stable. Some people use these in production.
 
-1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
+1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🧬 🔌 ⚙️
    C# support is an official module. If you have a Mono-version of Godot Engine, it comes built into the engine.
-   Most people are using the [VSCode](https://github.com/godotengine/godot-csharp-vscode) extension.
+   Most people are using the [VSCode](https://github.com/godotengine/godot-csharp-vscode) extension, but it's still can be edited in engine.
 
 1. ### [JavaScript](https://github.com/GodotExplorer/ECMAScript) 👥 🔌 ⚙️
    JavaScript support is a 3rd-party module. Modules add built-in support (like GDScript) but require [compiling it into the engine](https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html).
@@ -67,9 +67,9 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Clojure](https://github.com/arcadia-unity/ArcadiaGodot) 👥 🔌 🏄
    Based on Mono. No API documentation. Usable and community supported. 
 
-1. ### [D](https://github.com/godot-d/godot-d) 👥 🔌 🔧
-   Maintained by Sheep. Available in the official Discord channel. 
-   It is feature complete, performant and pretty much without any documentation.
+1. ### [DLang](https://github.com/godot-dlang/godot-dlang) 👥 🔌 🔧
+   Maintained by al1-ce. Missing any documentation.
+   Feature-complete, but undergoing a full rewrite as port for Godot 4.
 
 1. ### [Haskell](https://github.com/SimulaVR/godot-haskell) see 👥 🔌 🔧
    Maintained by the SimulaVR folks. Feature complete and rudimentary documented. 
@@ -146,6 +146,10 @@ Comparable to being in alpha stage.
    Ruby bindings haven't been updated since 2018.
    It's an attempted PluginScript system, but it's designed poorly with ~15x performance loss vs. GDScript.
    Not documented or stable enough for use.
+
+1. ### [D](https://github.com/godot-d/godot-d) 👥 🔌 🔧
+   Maintained by Sheep. Possibly is abandoned, haven't been updated since 2021.
+   It is feature complete, performant and pretty much without any documentation.
 
 ## 🌐 Other Useful links
 
