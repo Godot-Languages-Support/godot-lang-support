@@ -4,6 +4,10 @@
 
 ### ⚠ Disclaimer
 
+We are in the midst of transitioning from Godot 3 to Godot 4. 
+For this purpose, will Godot 4 become its own static webpage, to show all the differences and advantages of the language bindings. 
+If you want to help, or if you are a language maintainer, see here: https://github.com/Vivraan/godot-lang-support/issues/46
+
 The engine and modules are developed in C++. For those topics, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
 
 In contrast, the languages provided here are for *making scripts* in Godot projects. Godot has many methods for granting language support:
