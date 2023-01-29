@@ -75,7 +75,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    Maintained by Sheep. Available in the official Discord channel. 
    It is feature complete, performant and pretty much without any documentation.
 
-1. ### [Haskell](https://github.com/SimulaVR/godot-haskell) see 👥 🔌 🔧
+1. ### [Haskell](https://github.com/SimulaVR/godot-haskell) 👥 🔌 🔧
    Maintained by the SimulaVR folks. Feature complete and rudimentary documented. 
    
 1. ### [Haxe/C#](https://lib.haxe.org/p/godot) 👥 🔌 🏄
@@ -104,6 +104,9 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Swift](https://github.com/kelvin13/godot-swift) 👥 🔌 🔧
    Provides bindings and a Swift Package Manager-powered build system for creating Godot native libraries from Swift frameworks. GDScript APIs are written in terms of Swift protocols and generics, allowing for seamless Swift-to-Godot interoperability. Automates nearly all of the process of registering types and members with the Godot runtime, and ships with an expressive, SIMD-accelerated math library. Has comprehensive [API documentation](https://kelvin13.github.io/godot-swift/) and [tutorials](https://github.com/kelvin13/godot-swift/tree/master/examples).
 
+1. ### [WASM](https://github.com/Dheatly23/godot-wasm) 👥 🏄
+   Bindings for wasm. Implemented via the Rust bindings. 
+
 1. ### [Zig](https://github.com/thimenesup/GodotZigBindings) 👥 🔌 🔧
    Almost feature complete, with room for some improvements, quite usable as is, except for some issues that root from the Zig compiler and C ABI code gen compatibility.
 
@@ -129,7 +132,7 @@ Comparable to being in alpha stage.
 
 ## ⚰️ Left 4 Dead
 
-1. ### [AngelScript](https://github.com/Geequlim/AngelScript)👥 🔌 🔧
+1. ### [AngelScript](https://github.com/Geequlim/AngelScript) 👥 🔌 🔧
    AngelScript was @Geequlim's first forray into GDNative, before making the ECMAScript bindings.
 
 1. ### [Crystal](https://github.com/kalinon/godot-crystal) 👥 🔌 ⚙️
