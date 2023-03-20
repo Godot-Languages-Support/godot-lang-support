@@ -75,7 +75,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    Maintained by Sheep. Available in the official Discord channel. 
    It is feature complete, performant and pretty much without any documentation.
 
-1. ### [Haskell](https://github.com/SimulaVR/godot-haskell) see 👥 🔌 🔧
+1. ### [Haskell](https://github.com/SimulaVR/godot-haskell) 👥 🔌 🔧
    Maintained by the SimulaVR folks. Feature complete and rudimentary documented. 
    
 1. ### [Haxe/C#](https://lib.haxe.org/p/godot) 👥 🔌 🏄
