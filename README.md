@@ -94,7 +94,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Go (godot-go)](https://github.com/godot-go/godot-go/) 👥 🔌 🔧
    Go bindings from godot-go are a recent project in alpha. There is decent documentation of the build workflow and example scripts. It is actively being developed.
 
-1. ### [Kotlin JVM](https://github.com/utopia-rise/godot-jvm) 👥 🔌 ⚙️
+1. ### [Kotlin JVM](https://github.com/utopia-rise/godot-jvm) 👥 🧬 🔌 ⚙️
    Currently in [Alpha](https://github.com/utopia-rise/godot-jvm/blob/master/docs/src/doc/pre-alpha.md). More or less feature complete with a few missing targets and some limitations, but with documentation and good performance characteristics. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
 
 1. ### [Python](https://github.com/touilleMan/godot-python) 👥 🧬 🔌 📜
