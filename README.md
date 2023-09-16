@@ -1,6 +1,6 @@
 # 🗺 Godot Languages Support
 
-*A community-maintained list of Language Support Projects for Godot Engine.*\
+*A community-maintained list of Language Support Projects for Godot Engine.*
 
 ### ⚠ Disclaimer
 
