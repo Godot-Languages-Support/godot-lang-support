@@ -31,7 +31,8 @@ In contrast, the languages provided here are for programming the game logic. The
 - 🏰 Sandboxes the code
 
 ## 🏆🥇 Production Ready
-   These languages are documented and stable. 
+   These languages are documented and stable.  
+   *In alphabetical order*. 
 
 1. ### [C++ / Jenova](https://jenova-framework.github.io/)  🧬 🔌 👥 🔧
    Jenova provides not only hot reloadable C++ scripting, and editor support within Godot itself, Visual Studio, and VSCode, but also an inbuilt VM that can be embedded into the game, and a lot of other features.
