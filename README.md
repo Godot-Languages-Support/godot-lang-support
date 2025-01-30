@@ -1,6 +1,6 @@
-# 🗺 Godot Languages Support
+# 🗺 Godot Language Support
 
-*A community-maintained list of Language Support Projects for Godot Engine.*
+*A community-maintained list of Language Support Projects for the Godot and Blazium Engine.*
 
 ### ⚠ Disclaimer
 
@@ -8,7 +8,7 @@ If you want to help, or if you are a language maintainer, see here: https://gith
 
 The engine and modules are developed in C++. For those topics, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
 
-In contrast, the languages provided here are for *making scripts* in Godot projects. Godot has different methods for extending the engine, and granting additional language support:
+In contrast, the languages provided here are for programming the game logic. There are different methods for extending the engine, and granting additional language support:
 
 - **Modules:** Maintainers/Developers define custom implementations of Godot's `Script`, `ScriptInstance`, and `ScriptLanguage` types in a module. Users add the module to the engine source code and compile the engine themselves (or a developer may provide precompiled binaries).
 
@@ -43,6 +43,9 @@ Mainly focused on Windows as the development platform, and also available for Li
 
 Non-free edition for code obfuscation also available.
 
+1. ### [C++ and Rust](https://github.com/libriscv/godot-sandbox) 🧬 
+   This mainly focuses on Cpp and Rust support, but it also features Zig. It sandboxes the code, so its suitable for modding support. 
+
 1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
    C# support is made possible by an official Godot module. If you have a mono version of Godot or Blazium, it comes built-in.
 
@@ -74,7 +77,6 @@ Non-free edition for code obfuscation also available.
 1. ### [Swift](https://github.com/migueldeicaza/SwiftGodot)  👥 🔌 🔧
    Very well supported implementation by Miguel Deicaza. 
 
-
 ## 🥉 Has Potential
    In active development, comparable to being in beta stage.
 
@@ -99,50 +101,6 @@ Python implementation from scratch.
 
 1. ### [Zig](https://github.com/thimenesup/GodotZigBindings) 👥 🔌 🔧
    Almost feature complete, with room for some improvements, quite usable as is, except for some issues that root from the Zig compiler and C ABI code gen compatibility.
-
-## 🏅 Okay, I guess?
-Potential [skub](https://knowyourmeme.com/memes/skub).
-
-1. ### [C++ *GDNative support*](https://github.com/godotengine/godot-cpp) 💍 🔌 🔧
-   C++ is a bit of a hot potato anywhere, and it is here as well: some people like to use it, but it could use better documentation in places. Some peeves such as not being able to use modern C++ features starting from C++11 dwell in this API.
-
-## 🐣 Up and coming
-Comparable to being in alpha stage.
-
-1. ### [Ada](https://github.com/MichaelAllenHardeman/gdnative_ada) 👥 🔌 🔧
-   This isn't documented or (probably) stable, but it is still very new.
-
-1. ### [Dart](https://github.com/mahdisml/DartGodot) 👥 🔌 🏄
-   Uses Godot's C# API to make calls to Dart script code. Has code for generating scripts.
-
-1. ### [Smalltalk](https://gitlab.com/chandler.justin.s/godot-talk-VM) 👥 🔌 🏄
-   Used in production, still certain core features missing. Uses a custom C# VM to interpret arbitrary
-   bytecode from a Pharo Smalltalk library. Cuis Smalltalk support planned.
-   [Discord server available.](https://discord.gg/xkZEQrb3Xn)
-
-## ⚰️ Left 4 Dead
-
-1. ### [AngelScript](https://github.com/Geequlim/AngelScript) 👥 🔌 🔧
-   AngelScript was @Geequlim's first forray into GDNative, before making the ECMAScript bindings.
-
-1. ### [Crystal](https://github.com/kalinon/godot-crystal) 👥 🔌 ⚙️
-   Mentions nothing about its usability, unmaintained since over 2 years.
-
-1. ### [Go (ShadowApex)](https://github.com/ShadowApex/godot-go) 👥 🔌 🔧
-   Go bindings from ShadowApex haven't been updated since 2018. Not documented or stable enough for production.
-
-1. ### [Haxe](https://github.com/mrcdk/godot-haxe) 👥 🔌 🔧
-
-1. ### [Kotlin Native](https://github.com/utopia-rise/godot-kotlin) 👥 🔌 🔧 
-   Kotlin Native bindings are declared unready for production use and deprecated due to performance problems. Although, it was feature complete at the time of the drop.
-   Here is the old [documentation](https://godot-kotl.in/en/latest/) of it.
-
-1. ### [Object Pascal](https://github.com/BenediktMagnus/godot-object-pascal) 👥 🔌 🔧
-
-1. ### [Ruby](https://github.com/onyxblade/godot-ruby) 👥 🔌 🔧
-   Ruby bindings haven't been updated since 2018.
-   It's an attempted PluginScript system, but it's designed poorly with ~15x performance loss vs. GDScript.
-   Not documented or stable enough for use.
 
 ## 🌐 Other Useful links
 
