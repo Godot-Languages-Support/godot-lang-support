@@ -32,6 +32,17 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 ## 🏆🥇 Production Ready
    These languages are documented and stable. 
 
+1. ### [C++ / Jenova](https://jenova-framework.github.io/)
+   Jenova provides not only hot reloadable C++ scripting, and editor support within Godot itself, Visual Studio and VSCode, but also an inbuild VM that can be embedded into the game, and a lot of other features.
+
+Has support for nested GDExtension development, and also provides its own API for extension development.
+
+Requires Godot 4.4 or Blazium to work.
+
+Mainly focused on Windows as the development platform, and also available for Linux.
+
+Non-free edition for code obfuscation also available.
+
 1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
    C# support is made possible by an official Godot module. If you have a mono version of Godot or Blazium, it comes built-in.
 
