@@ -45,7 +45,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    Does compile Haxe to GDScript.
    Made with reflaxe framework.
 
-1. ### [JavaScript and Typescript](https://github.com/godotjs/GodotJS) 👥 🔌 ⚙️
+1. ### [JavaScript and Typescript](https://github.com/godotjs/GodotJS) 👥 🔌 
    With JavaScript, you also get support for languages that transpile to JavaScript, like [CoffeeScript](https://coffeescript.org/) and [F# Fable](https://fable.io/). Some adjustments may have to be make in these instances.
 
 1. ### [Kotlin, Java, and Scala.](https://github.com/utopia-rise/godot-jvm) 👥 🔌 ⚙️
@@ -54,7 +54,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
 1. ### [Nim](https://github.com/godot-nim/gdext-nim) 👥 🔌 🔧
    Feature complete, hot reloadable implementation of Nim.
 
-1. ### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  🧬 ⚙️
+1. ### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  👥 🧬 🔧
    Orchestrator can be considered as a visual scripting language with advanced macro support, to provide high level abstractions. It provides rich API support, is implemented in C++ and compiles to native code.
 
 1. ### [Rust](https://github.com/godot-rust/gdext) 👥 🔌 🔧
