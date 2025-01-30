@@ -63,7 +63,7 @@ In contrast, the languages provided here are for programming the game logic. The
    Made with reflaxe framework.
 
 1. ### [JavaScript and Typescript](https://github.com/godotjs/GodotJS) 👥 🔌 
-   With JavaScript, you also get support for languages that transpile to JavaScript, like [CoffeeScript](https://coffeescript.org/) and [F# Fable](https://fable.io/). Some adjustments may have to be make in these instances.
+   With JavaScript, you also get support for languages that transpile to JavaScript, like [CoffeeScript](https://coffeescript.org/) and [F# Fable](https://fable.io/). Some adjustments may have to be made in these instances.
 
 1. ### [Kotlin, Java, and Scala.](https://github.com/utopia-rise/godot-jvm) 👥 🔌 ⚙️
    Provides mostly feature complete support for Kotlin and Java. Aims to support Scala in the near future as well. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
@@ -79,10 +79,19 @@ In contrast, the languages provided here are for programming the game logic. The
    You can find the project homepage [here.](https://godot-rust.github.io/)
 
 1. ### [Swift](https://github.com/migueldeicaza/SwiftGodot)  👥 🔌 🔧
-   Very well-supported implementation by Miguel Deicaza. 
+   Very well-supported implementation by Miguel Deicaza.
 
-## 🥉 Has Potential
-   In active development, comparable to being in the beta stage.
+## 🤪 Curiosities 
+   Stable programming languages, ... with a twist 😉 
+
+1. ### [Enu](https://github.com/dsrw/enu) 👥 🧬 ⚙️
+   Experimental block-based language and framework. 
+
+1. ### [Ink](https://github.com/inkle/ink) 👥 🔌 🏄
+   Scripting language for writing interactive narrative.
+
+## 🥈 Half way there
+   In active development, and comparable to being in the beta stage.
 
 1. ### [Go 1](https://github.com/godot-go/godot-go/) 👥 🔌 🔧
    Go bindings to GDExtension.
