@@ -18,7 +18,7 @@ In contrast, the languages provided here are for programming the game logic. The
 
 ### By editor support
 - 🧬 Can be edited inside Godot Engine 
-- 🔌 Have support for the Godot API in an external editor.
+- 🔌 Has support for the Godot API in an external editor.
 
 ### By maintainer
 - 💍 Official
@@ -34,7 +34,7 @@ In contrast, the languages provided here are for programming the game logic. The
    These languages are documented and stable. 
 
 1. ### [C++ / Jenova](https://jenova-framework.github.io/)  🧬 🔌 👥 🔧
-   Jenova provides not only hot reloadable C++ scripting, and editor support within Godot itself, Visual Studio and VSCode, but also an inbuild VM that can be embedded into the game, and a lot of other features.
+   Jenova provides not only hot reloadable C++ scripting, and editor support within Godot itself, Visual Studio, and VSCode, but also an inbuilt VM that can be embedded into the game, and a lot of other features.
 
    Has support for nested GDExtension development, and also provides its own API for extension development.
 
@@ -45,7 +45,7 @@ In contrast, the languages provided here are for programming the game logic. The
    A non-free edition that provides encrypted code obfuscation, is also available.
 
 1. ### [C++ and Rust](https://github.com/libriscv/godot-sandbox) 🧬 🏰 
-   This mainly focuses on Cpp and Rust support, but it also features Zig. It sandboxes the code, so its suitable for modding support. 
+   This mainly focuses on Cpp and Rust support and also features Zig. It sandboxes the code and is suitable for modding support. 
 
 1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
    C# support is made possible by an official Godot module. If you have a mono version of Godot or Blazium, it comes built-in.
@@ -89,7 +89,7 @@ In contrast, the languages provided here are for programming the game logic. The
    Possible to use it for shaders.
 
 1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
-   This version of Lua is currently undergoing a partial rewrite, seems to be stuck in development.
+   This version of Lua is currently undergoing a partial rewrite and seems to be stuck in development.
 
 1. ### [Python](https://github.com/touilleMan/godot-python/tree/godot4-meson) 👥 🧬 🔌
     Currently in reconstruction.
@@ -101,10 +101,10 @@ In contrast, the languages provided here are for programming the game logic. The
    Bindings for wasm. Implemented via the Rust bindings.
 
 1. ### [WASM 2](https://github.com/ashtonmeuser/godot-wasm) 👥 🏰 ⚙️ 🔧
-   Allows to load wasm libraries from other languages. Available as both module and GDExtension.
+   Allows to load WASM libraries from other languages. Available as both module and GDExtension.
 
 1. ### [Zig](https://github.com/thimenesup/GodotZigBindings) 👥 🔌 🔧
-   Almost feature complete, with room for some improvements, quite usable as is, except for some issues that root from the Zig compiler and C ABI code gen compatibility.
+   Almost no documentation is provided, uncertain about the status of the project. 
 
 ## 🌐 Other Useful links
 
