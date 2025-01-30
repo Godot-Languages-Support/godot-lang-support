@@ -56,6 +56,7 @@ In contrast, the languages provided here are for programming the game logic. The
 
 1. ### [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html) 💍 🧬 🔌 ⚙️
    GDScript is actively maintained and documented and is stable. It is the primary language, has the most tutorials online, and has deep in-Godot editor support.
+   Can be extended with [Golden Nugget](https://monnef.gitlab.io/golden-gadget/features). 
 
 1. ### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript) 👥 🔌 🏄
    Does compile Haxe to GDScript.
