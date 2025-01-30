@@ -27,7 +27,8 @@ In contrast, the languages provided here are for programming the game logic. The
 ### By method
 - ⚙️ Module
 - 🔧 GDExtension
-- 🏄 "Surfs" on an existing language's functionality to work with Godot.
+- 🏄 "Surfs" on another language
+- 🏰 Sandboxes the code
 
 ## 🏆🥇 Production Ready
    These languages are documented and stable. 
@@ -43,7 +44,7 @@ In contrast, the languages provided here are for programming the game logic. The
 
    A non-free edition that provides encrypted code obfuscation, is also available.
 
-1. ### [C++ and Rust](https://github.com/libriscv/godot-sandbox) 🧬 
+1. ### [C++ and Rust](https://github.com/libriscv/godot-sandbox) 🧬 🏰 
    This mainly focuses on Cpp and Rust support, but it also features Zig. It sandboxes the code, so its suitable for modding support. 
 
 1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
@@ -91,13 +92,16 @@ In contrast, the languages provided here are for programming the game logic. The
    Possible to use it for shaders.
 
 1. ### [Python](https://github.com/touilleMan/godot-python/tree/godot4-meson) 👥 🧬 🔌
- Currently in reconstruction.
+    Currently in reconstruction.
 
 1. ### [Python 2](https://github.com/niklas2902/py4godot) 👥 🧬 🔌
-Python implementation from scratch. 
+   Python implementation from scratch. 
 
-1. ### [WASM](https://github.com/Dheatly23/godot-wasm) 👥 🏄
-   Bindings for wasm. Implemented via the Rust bindings. 
+1. ### [WASM](https://github.com/Dheatly23/godot-wasm) 👥 🏰
+   Bindings for wasm. Implemented via the Rust bindings.
+
+1. ### [WASM](https://github.com/ashtonmeuser/godot-wasm)  👥 🏰
+   Allows to load wasm libraries from other languages. 
 
 1. ### [Zig](https://github.com/thimenesup/GodotZigBindings) 👥 🔌 🔧
    Almost feature complete, with room for some improvements, quite usable as is, except for some issues that root from the Zig compiler and C ABI code gen compatibility.
