@@ -70,16 +70,17 @@ In contrast, the languages provided here are for programming the game logic. The
    Feature complete, hot reloadable implementation of Nim.
 
 1. ### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  👥 🧬 🔧
-   Orchestrator can be considered as a visual scripting language with advanced macro support, to provide high level abstractions. It provides rich API support, is implemented in C++ and compiles to native code.
+   Orchestrator is a visual scripting language with advanced macro support to provide high-level abstractions.
+   It provides rich API support, is implemented in C++, and compiles to native code.
 
 1. ### [Rust](https://github.com/godot-rust/gdext) 👥 🔌 🔧
    You can find the project homepage [here.](https://godot-rust.github.io/)
 
 1. ### [Swift](https://github.com/migueldeicaza/SwiftGodot)  👥 🔌 🔧
-   Very well supported implementation by Miguel Deicaza. 
+   Very well-supported implementation by Miguel Deicaza. 
 
 ## 🥉 Has Potential
-   In active development, comparable to being in beta stage.
+   In active development, comparable to being in the beta stage.
 
 1. ### [Go 1](https://github.com/godot-go/godot-go/) 👥 🔌 🔧
    Go bindings to GDExtension.
