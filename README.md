@@ -39,8 +39,6 @@ In contrast, the languages provided here are for programming the game logic. The
 
    Has support for nested GDExtension development, and also provides its own API for extension development.
 
-   Requires Godot 4.4 or Blazium to work.
-
    Mainly focused on Windows as the development platform, and also available for Linux.
 
    A non-free edition that provides encrypted code obfuscation, is also available.
