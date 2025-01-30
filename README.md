@@ -100,8 +100,8 @@ In contrast, the languages provided here are for programming the game logic. The
 1. ### [WASM](https://github.com/Dheatly23/godot-wasm) 👥 🏰
    Bindings for wasm. Implemented via the Rust bindings.
 
-1. ### [WASM](https://github.com/ashtonmeuser/godot-wasm)  👥 🏰
-   Allows to load wasm libraries from other languages. 
+1. ### [WASM 2](https://github.com/ashtonmeuser/godot-wasm)  👥 🏰
+   Allows to load wasm libraries from other languages. Available as both module and GDExtension.
 
 1. ### [Zig](https://github.com/thimenesup/GodotZigBindings) 👥 🔌 🔧
    Almost feature complete, with room for some improvements, quite usable as is, except for some issues that root from the Zig compiler and C ABI code gen compatibility.
