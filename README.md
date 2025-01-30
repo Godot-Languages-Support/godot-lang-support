@@ -49,8 +49,7 @@ In contrast, the languages provided here are for *making scripts* in Godot proje
    C# support is an official module. If you have a Mono-version of Godot Engine, it comes built into the engine.
    Most people are using the [VSCode](https://github.com/godotengine/godot-csharp-vscode) extension.
 
-1. ### [JavaScript](https://github.com/GodotExplorer/ECMAScript) 👥 🔌 ⚙️
-   JavaScript support is a 3rd-party module. Modules add built-in support (like GDScript) but require [compiling it into the engine](https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html).
+1. ### [JavaScript](https://github.com/godotjs/GodotJS) 👥 🔌 ⚙️
    With JavaScript, you also get support for languages that transpile to JavaScript, like [CoffeeScript](https://coffeescript.org/) and [F# Fable](https://fable.io/).
 
 1. ### [Lua](https://github.com/gilzoide/godot-lua-pluginscript) 👥 🧬 🔌 📜
