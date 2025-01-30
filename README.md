@@ -81,15 +81,15 @@ In contrast, the languages provided here are for programming the game logic. The
 ## 🥉 Has Potential
    In active development, comparable to being in beta stage.
 
-1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
-   This version of Lua is currently undergoing a rewrite of its parser.
-
 1. ### [Go 1](https://github.com/godot-go/godot-go/) 👥 🔌 🔧
    Go bindings to GDExtension.
 
 1. ### [Go 2](https://github.com/grow-graphics/gd) 👥 🔌 🔧
    Go bindings to GDExtension.
    Possible to use it for shaders.
+
+1. ### [Lua](https://github.com/perbone/luascript) 👥 🧬 🔌 ⚙️
+   This version of Lua is currently undergoing a partial rewrite, seems to be stuck in development.
 
 1. ### [Python](https://github.com/touilleMan/godot-python/tree/godot4-meson) 👥 🧬 🔌
     Currently in reconstruction.
@@ -100,8 +100,8 @@ In contrast, the languages provided here are for programming the game logic. The
 1. ### [WASM](https://github.com/Dheatly23/godot-wasm) 👥 🏰
    Bindings for wasm. Implemented via the Rust bindings.
 
-1. ### [WASM](https://github.com/ashtonmeuser/godot-wasm)  👥 🏰
-   Allows to load wasm libraries from other languages. 
+1. ### [WASM 2](https://github.com/ashtonmeuser/godot-wasm) 👥 🏰 ⚙️ 🔧
+   Allows to load wasm libraries from other languages. Available as both module and GDExtension.
 
 1. ### [Zig](https://github.com/thimenesup/GodotZigBindings) 👥 🔌 🔧
    Almost feature complete, with room for some improvements, quite usable as is, except for some issues that root from the Zig compiler and C ABI code gen compatibility.
