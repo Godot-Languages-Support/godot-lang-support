@@ -41,7 +41,7 @@ In contrast, the languages provided here are for programming the game logic. The
 
    Mainly focused on Windows as the development platform, and also available for Linux.
 
-   A non-free edition that provides encrypted code obfuscation, is also available.
+   A closed-source edition that provides encrypted code obfuscation, is also available.
 
 1. ### [C++ and Rust](https://github.com/libriscv/godot-sandbox) 🧬 🏰 
    This mainly focuses on Cpp and Rust support and also features Zig. It sandboxes the code and is suitable for modding support. 
