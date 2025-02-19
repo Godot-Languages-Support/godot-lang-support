@@ -47,7 +47,7 @@ In contrast, the languages provided here are for programming the game logic. The
    This mainly focuses on Cpp and Rust support and also features Zig. It sandboxes the code and is suitable for modding support. 
 
 1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
-   C# support is made possible by an official Godot module. If you have a mono version of Godot or Blazium, it comes built-in.
+   C# support is made possible by an official Godot module. If you have the dotnet version of Godot or Blazium, it comes built-in. It does not support web export (HTML/wasm)
 
 1. ### [D](https://github.com/godot-dlang/godot-dlang) 👥 🔌 🔧
    New, maintained binding to GDExtension. 
