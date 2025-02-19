@@ -37,41 +37,43 @@ In contrast, the languages provided here are for programming the game logic. The
 1. ### [C++ / Jenova](https://jenova-framework.github.io/)  🧬 🔌 👥 🔧
    Jenova provides not only hot reloadable C++ scripting, and editor support within Godot itself, Visual Studio, and VSCode, but also an inbuilt VM that can be embedded into the game, and a lot of other features.
 
-   Has support for nested GDExtension development, and also provides its own API for extension development.
+   Has support for nested GDExtension development, and provides its own API for extension development as well, although currently undocumented.
 
    Mainly focused on Windows as the development platform, and also available for Linux.
 
-   A non-free edition that provides encrypted code obfuscation, is also available.
+   A non-free edition that provides encrypted code obfuscation, is optionally available.
 
 1. ### [C++ and Rust](https://github.com/libriscv/godot-sandbox) 🧬 🏰 
    This mainly focuses on Cpp and Rust support and also features Zig. It sandboxes the code and is suitable for modding support. 
 
 1. ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
-   C# support is made possible by an official Godot module. If you have the dotnet version of Godot or Blazium, it comes built-in. It does not support web export (HTML/wasm)
+   C# support is made possible by an official Godot module. If you have the dotnet version of Godot or Blazium, it comes built-in. It does not support web export (HTML/wasm) as of now.
 
 1. ### [D](https://github.com/godot-dlang/godot-dlang) 👥 🔌 🔧
    New, maintained binding to GDExtension. 
 
 1. ### [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html) 💍 🧬 🔌 ⚙️
-   GDScript is actively maintained and documented and is stable. It is the primary language, has the most tutorials online, and has deep in-Godot editor support.
+   GDScript is actively maintained, documented and is stable. It is the primary language, has the most tutorials online, and deep Godot editor support.
    Can be extended with [Golden Nugget](https://monnef.gitlab.io/golden-gadget/features). 
 
 1. ### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript) 👥 🔌 🏄
    Does compile Haxe to GDScript.
-   Made with reflaxe framework.
+   Made with the `reflaxe` framework.
 
 1. ### [JavaScript and Typescript](https://github.com/godotjs/GodotJS) 👥 🔌 
-   With JavaScript, you also get support for languages that transpile to JavaScript, like [CoffeeScript](https://coffeescript.org/) and [F# Fable](https://fable.io/). Some adjustments may have to be made in these instances.
+   Currently limited to Godit 4.1 and a rewrite from module to GDExtension is planned, further delaying the development towards modern versions if Godot.
 
 1. ### [Kotlin, Java, and Scala.](https://github.com/utopia-rise/godot-jvm) 👥 🔌 ⚙️
-   Provides mostly feature complete support for Kotlin and Java. Aims to support Scala in the near future as well. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
+   Provides proper support for Kotlin and Java. Aims to support Scala in the near future as well. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
 
 1. ### [Nim](https://github.com/godot-nim/gdext-nim) 👥 🔌 🔧
    Feature complete, hot reloadable implementation of Nim.
 
 1. ### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  👥 🧬 🔧
    Orchestrator is a visual scripting language with advanced macro support to provide high-level abstractions.
-   It provides rich API support, is implemented in C++, and compiles to native code.
+Friendly and competent support.
+Also usable for dialog scripting. 
+It provides rich API support, is implemented in C++, and compiles to native code. 
 
 1. ### [Rust](https://github.com/godot-rust/gdext) 👥 🔌 🔧
    You can find the project homepage [here.](https://godot-rust.github.io/)
