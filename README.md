@@ -34,14 +34,18 @@ In contrast, the languages provided here are for programming the game logic. The
    These languages are documented and stable.  
    *In alphabetical order*. 
 
+1. ### [C++ / Godot module](https://docs.godotengine.org/en/stable/contributing/development/core_and_modules/custom_modules_in_cpp.html)  💍 ⚙️
+   
+   You can code your entire project (or parts of it) in C++ and include the game logic as Godot modules.
+
 1. ### [C++ / Jenova](https://jenova-framework.github.io/)  🧬 🔌 👥 🔧
-   Jenova provides not only hot reloadable C++ scripting, and editor support within Godot itself, Visual Studio, and VSCode, but also an inbuilt VM that can be embedded into the game, and a lot of other features.
+   Jenova provides not only hot reloadable C++ game scripting, editor support within Visual Studio, Visual Studio Code, and Godot itself, but also a lot of other features like support for nested GDExtension development, an inbuilt virtual machine for starting an entire OS, that can be embedded into the game, and interact with it.
 
-   Has support for nested GDExtension development, and provides its own API for extension development as well, although currently undocumented.
+    It also provides its own API for the development of extensions, although currently undocumented.
 
-   Mainly focused on Windows as the development platform, and also available for Linux.
+   Limited to Windows and Linux as development platform.
 
-   A non-free edition that provides encrypted code obfuscation, is optionally available.
+   A non-free edition that provides encrypted code obfuscation and more, is also available.
 
 1. ### [C++ and Rust](https://github.com/libriscv/godot-sandbox) 🧬 🏰 
    This mainly focuses on Cpp and Rust support and also features Zig. It sandboxes the code and is suitable for modding support. 
