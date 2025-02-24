@@ -128,7 +128,7 @@ It provides rich API support, is implemented in C++, and compiles to native code
 ## 🌐 Other Useful links
 
 - See the language/scripting section on [Wikipedia.](https://en.wikipedia.org/wiki/Godot_(game_engine)#Scripting)
-- Gamesfromscratch made a [video](https://youtu.be/VqcMlS-IJl4) about some of the supported languages.
+- Gamesfromscratch made a [video](https://youtu.be/zdqSLz9ZpqQ) about some of the supported languages.
 - (You can expand this list!)
 
 ## Enjoy ^-^
