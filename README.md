@@ -94,8 +94,11 @@ It provides rich API support, is implemented in C++, and compiles to native code
 ### [Ink](https://github.com/inkle/ink) 👥 🔌 🏄
    Scripting language for writing interactive narrative.
 
-## 🥈 Half way there
+## 🥈 Halfway there
    In active development, and comparable to being in the beta stage.
+
+### [Dart](https://github.com/fuzzybinary/godot_dart)  👥 🔧
+   The project's README contains a detailed roadmap.
 
 ### [Go 1](https://github.com/godot-go/godot-go/) 👥 🔌 🔧
    Go bindings to GDExtension.
