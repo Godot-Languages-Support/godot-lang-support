@@ -1,6 +1,4 @@
-# 🗺 A short overview of the available scripting languages for the Godot game engine (and its forks) 
-
-*A community-maintained list of Language Support Projects for the Godot and Blazium Engine.*
+# 🗺 An overview about the available languages bindings for the Godot engine
 
 ### ⚠ Disclaimer
 
