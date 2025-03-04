@@ -1,4 +1,4 @@
-# 🗺 An overview about the available languages bindings for the Godot engine
+# 🗺 An overview about the available language bindings for Godot
 
 ### ⚠ Disclaimer
 
