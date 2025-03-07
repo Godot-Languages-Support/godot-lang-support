@@ -45,7 +45,7 @@ In contrast, the languages provided here are for programming the game logic. The
 
    A non-free edition that provides encrypted code obfuscation and more, is also available.
 
-### [C++ and Rust](https://github.com/libriscv/godot-sandbox) 🧬 🏰 
+### [C++, Rust and Zig](https://github.com/libriscv/godot-sandbox) 🧬 🏰 
    This mainly focuses on Cpp and Rust support and also features Zig. It sandboxes the code and is suitable for modding support. 
 
 ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html) 💍 🔌 ⚙️
