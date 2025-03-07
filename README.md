@@ -63,7 +63,7 @@ In contrast, the languages provided here are for programming the game logic. The
    Made with the `reflaxe` framework.
 
 ### [JavaScript and Typescript](https://github.com/godotjs/GodotJS) 👥 🔌 
-   Currently limited to Godit 4.1 and a rewrite from module to GDExtension is planned, further delaying the development towards modern versions if Godot.
+   Javascript and Typescript extension, with multiple different backends to choose from. 
 
 ### [Kotlin, Java, and Scala.](https://github.com/utopia-rise/godot-jvm) 👥 🔌 ⚙️
    Provides proper support for Kotlin and Java. Aims to support Scala in the near future as well. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
