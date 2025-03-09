@@ -95,6 +95,9 @@ It provides rich API support, is implemented in C++, and compiles to native code
 ## 🥈 Halfway there
    In active development, and comparable to being in the beta stage.
 
+### [Block Coding](https://github.com/endlessm/godot-block-coding)   👥 🔧
+   Scratch-like visual coding in blocks.
+
 ### [Dart](https://github.com/fuzzybinary/godot_dart)  👥 🔧
    The project's README contains a detailed roadmap.
 
