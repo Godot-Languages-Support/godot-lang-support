@@ -4,7 +4,14 @@
 
 If you want to help, or if you are a language maintainer, see here: https://github.com/Vivraan/godot-lang-support/issues
 
-The engine and modules are developed in C++. For those topics, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
+This list is for Godot 4. In case you are looking for Godot 3 bindings, find them [here](https://github.com/Godot-Languages-Support/godot-lang-support/blob/15fb99b3214959432aedffb91218b4bd33d3789f/README.md)
+
+Note that some of that projects have moved on to Godot 4, so you will have to use one of their older versions.
+
+See the README or contact the project for further information.
+
+The engine itself, and the Godot modules are developed in C++. 
+For those, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
 
 In contrast, the languages provided here are for programming the game logic. There are different methods for extending the engine, and granting additional language support:
 
