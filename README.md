@@ -90,6 +90,8 @@ It provides rich API support, is implemented in C++, and compiles to native code
 ### [Swift](https://github.com/migueldeicaza/SwiftGodot)  👥 🔌 🔧
    Very well-supported implementation by Miguel Deicaza.
 
+   There is also [SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit)
+
 ## 🤪 Curiosities 
    Stable programming languages, ... with a twist 😉 
 
