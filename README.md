@@ -129,7 +129,7 @@ It provides rich API support, is implemented in C++, and compiles to native code
 ### [Python 2](https://github.com/niklas2902/py4godot)  👥 🧬 🧩
    Python implementation from scratch. 
 
-### [WASM](https://github.com/Dheatly23/godot-wasm)  👥 🏰
+### [WASM](https://github.com/Dheatly23/godot-wasm)  👥 🏰 🏄
    Bindings for wasm. Implemented via the Rust bindings.
 
 ### [WASM 2](https://github.com/ashtonmeuser/godot-wasm)  👥 🏰 ⚙️ 🧩
