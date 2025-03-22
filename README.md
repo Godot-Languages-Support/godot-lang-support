@@ -1,8 +1,8 @@
 # 🗺 An overview about the available language bindings for Godot
 
-### ⚠ Disclaimer
+### Help
 
-If you want to help, or if you are a language maintainer, see here: https://github.com/Vivraan/godot-lang-support/issues
+If you want to help, and if you are a language maintainer, see here: https://github.com/Vivraan/godot-lang-support/issues
 
 This list is for Godot 4. In case you are looking for Godot 3 bindings, find them [here](https://github.com/Godot-Languages-Support/godot-lang-support/blob/15fb99b3214959432aedffb91218b4bd33d3789f/README.md)
 
