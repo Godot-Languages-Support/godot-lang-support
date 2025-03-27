@@ -1,9 +1,9 @@
-# 🗺 An overview about the available language bindings for Godot
+# 🗺 An overview about the available language bindings for Godot & Co
 
 ## Categories
 
 ### By editor support
-- 🧬 Can be edited inside Godot Engine 
+- 🧬 Can be edited inside the Godot Engine (and its forks)
 - 🔌 Has support for the Godot API in an external editor.
 
 ### By maintainer
