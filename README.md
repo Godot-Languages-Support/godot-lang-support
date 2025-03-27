@@ -1,24 +1,5 @@
 # 🗺 An overview about the available language bindings for Godot
 
-### Help
-
-If you want to help, and if you are a language maintainer, see here: https://github.com/Vivraan/godot-lang-support/issues
-
-This list is for Godot 4. In case you are looking for Godot 3 bindings, find them [here](https://github.com/Godot-Languages-Support/godot-lang-support/blob/15fb99b3214959432aedffb91218b4bd33d3789f/README.md)
-
-Note that some of that projects have moved on to Godot 4, so you will have to use one of their older versions.
-
-See the README or contact the project for further information.
-
-The engine itself, and the Godot modules are developed in C++. 
-For those, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
-
-In contrast, the languages provided here are for programming the game logic. There are different methods for extending the engine, and granting additional language support:
-
-- **Modules:** Maintainers/Developers define custom implementations of Godot's `Script`, `ScriptInstance`, and `ScriptLanguage` types in a module. Users add the module to the engine source code and compile the engine themselves (or a developer may provide precompiled binaries).
-
-- **GDExtension:** This is the official, new way to implement plugins for Godot 4. One of the limitations here is, that it wont support the Nintendo Switch. It has the benefit, that it does not need to be compiled into the engine, and gives more control over it.
-
 ## Categories
 
 ### By editor support
@@ -143,5 +124,24 @@ It provides rich API support, is implemented in C++, and compiles to native code
 - See the language/scripting section on [Wikipedia.](https://en.wikipedia.org/wiki/Godot_(game_engine)#Scripting)
 - Gamesfromscratch made a [video](https://youtu.be/zdqSLz9ZpqQ) about some of the supported languages.
 - (You can expand this list!)
+
+### Help
+
+If you want to help, and if you are a language maintainer, see here: https://github.com/Vivraan/godot-lang-support/issues
+
+This list is for Godot 4. In case you are looking for Godot 3 bindings, find them [here](https://github.com/Godot-Languages-Support/godot-lang-support/blob/15fb99b3214959432aedffb91218b4bd33d3789f/README.md)
+
+Note that some of that projects have moved on to Godot 4, so you will have to use one of their older versions.
+
+See the README or contact the project for further information.
+
+The engine itself, and the Godot modules are developed in C++. 
+For those, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
+
+In contrast, the languages provided here are for programming the game logic. There are different methods for extending the engine, and granting additional language support:
+
+- **Modules:** Maintainers/Developers define custom implementations of Godot's `Script`, `ScriptInstance`, and `ScriptLanguage` types in a module. Users add the module to the engine source code and compile the engine themselves (or a developer may provide precompiled binaries).
+
+- **GDExtension:** This is the official, new way to implement plugins for Godot 4. One of the limitations here is, that it wont support the Nintendo Switch. It has the benefit, that it does not need to be compiled into the engine, and gives more control over it.
 
 ## Enjoy ^-^
