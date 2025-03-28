@@ -46,6 +46,10 @@
    GDScript is actively maintained, documented and is stable. It is the primary language in the Godot ecosystem, has the most tutorials online, and deep Godot editor support.
    Can be extended with [Golden Nugget](https://monnef.gitlab.io/golden-gadget/features). 
 
+### [Go](https://github.com/grow-graphics/gd)  👥 🧩
+   Go bindings to GDExtension.
+   Possible to use it for shaders.
+
 ### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript)  👥 🔌 🏄
    Does compile Haxe to GDScript.
    Made with the `reflaxe` framework.
@@ -94,12 +98,8 @@ It provides rich API support, is implemented in C++, and compiles to native code
 ### [Dart](https://github.com/fuzzybinary/godot_dart)  👥 🧩
    The project's README contains a detailed roadmap.
 
-### [Go 1](https://github.com/godot-go/godot-go/)  👥 🔌 🧩
+### [Go 2](https://github.com/godot-go/godot-go/)  👥 🔌 🧩
    Go bindings to GDExtension.
-
-### [Go 2](https://github.com/grow-graphics/gd)  👥 🔌 🧩
-   Go bindings to GDExtension.
-   Possible to use it for shaders.
 
 ### [Lua](https://github.com/perbone/luascript)  👥 🧬 🔌 ⚙️
    This version of Lua is currently undergoing a partial rewrite and seems to be stuck in development.
