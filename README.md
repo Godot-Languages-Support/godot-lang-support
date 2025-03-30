@@ -66,7 +66,7 @@
    
    Can be extended with [Golden Nugget](https://monnef.gitlab.io/golden-gadget/features). 
 
-### [Go](https://github.com/grow-graphics/gd)  👥 🧩 ⚡
+### [Go](https://github.com/grow-graphics/gd)  👥 🧩 ⚡ 🌍
    
    Go bindings to GDExtension.
    Possible to use it for shaders.
@@ -74,7 +74,7 @@
 ### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript)  👥 🔌 🏄 🌍
    
    Does compile Haxe to GDScript.
-   Made with the `reflaxe` framework.
+   Made with the [reflaxe](https://github.com/SomeRanDev/reflaxe) framework.
 
 ### [JavaScript and Typescript](https://github.com/godotjs/GodotJS)  👥 🧩 🔌 🌍
    
@@ -92,9 +92,11 @@
    
    New and exciting binding, that allows to use Lua both directly, and as well by calling into it from other languages.
 
-### [Nim](https://github.com/godot-nim/gdext-nim)  👥 🧩 🔌 ⚡
+### [Nim](https://github.com/godot-nim/gdext-nim)  👥 🧩 🔌 ⚡ 
    
    Feature complete, hot reloadable implementation of Nim.
+
+   Web support on the roadmap for the next release.
 
 ### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  👥 🧩 🧬 ⚡
   
