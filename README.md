@@ -30,7 +30,9 @@
 
  ### [C++ / Jenova](https://jenova-framework.github.io/)  👥 🧩 🧬 🔌
    
-   Jenova provides hot reloadable C++  scripting, support for Visual Studio, VSCode, and Godot itself, and other features as support for nested GDExtension development, and an inbuilt virtual machine for running an entire OS that can be embedded into the game and interacted with it.
+   Jenova provides hot reloadable C++  scripting, and supports for Visual Studio, VSCode, and the Godot editor.
+   
+   Also, there is support for and nested GDExtension development, and an inbuilt virtual machine for running an entire OS that can be embedded into the game and interacted with it.
 
    It is one of the most advanced, and best maintained community extensions.
 
