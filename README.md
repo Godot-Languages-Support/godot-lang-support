@@ -36,7 +36,9 @@
 
    It is one of the most advanced, and best maintained community extensions.
 
-   Otherwise, it also provides an own API for the development of extensions, although that is currently undocumented.
+   The performance is factually on the same level as native C++, with a 0.005ms impact for calling functions from Godot.
+
+   It also provides an own API for the development of extensions, although that is currently undocumented.
 
    Currently it is only available for Windows and Linux, both in terms of the development and the export itself.
 
