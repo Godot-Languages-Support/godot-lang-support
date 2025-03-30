@@ -18,7 +18,9 @@
 
 ### By target platform 
 - 🌍 Web
-- ⚡ On JIT banned platforms (Switch, iOS) 
+- ⚡ On JIT restricted platforms (Switch, iOS) *
+
+* Switch support not available by default, a SDK and implementation is also needed.
 
 ## 🏆🥇 Production ready
    These languages are documented and stable.  
