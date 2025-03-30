@@ -28,8 +28,9 @@
    
    You can code your entire project (or parts of it) in C++ and include the game logic as Godot modules.
 
- ### [C++ / Jenova](https://jenova-framework.github.io/)  🧬 🔌 👥 🧩
-   Jenova provides hot reloadable C++  scripting, support for Visual Studio, VSCode, and Godot itself, and other features as support for nested GDExtension development, and an inbuilt virtual machine for starting an entire OS that can be embedded into the game and interacted with it.
+ ### [C++ / Jenova](https://jenova-framework.github.io/)  👥 🧩 🧬 🔌
+   
+   Jenova provides hot reloadable C++  scripting, support for Visual Studio, VSCode, and Godot itself, and other features as support for nested GDExtension development, and an inbuilt virtual machine for running an entire OS that can be embedded into the game and interacted with it.
 
    It is one of the most advanced, and best maintained community extensions.
 
@@ -41,55 +42,67 @@
 
    In that case, you should be aware about potentially missing features with these extensions.
    
-   As an example, users should not use functions stored in JenovaSDK, unless they build it statically and link against it.
-
-   There is a stripped down Godot editor with Jenova included, called [Lithium](), that is intended to develop desktop apps.
-
-   A non-free edition that provides encrypted code obfuscation and more, is also available.
+   As an example, users should not use functions stored in JenovaSDK unless they build it statically, and link against it.
 
 ### [C++, Rust and Zig](https://github.com/libriscv/godot-sandbox)  👥 🏰 🧩 🌍 ⚡
-   This mainly focuses on Cpp and Rust support and also features Zig. It sandboxes the code and is suitable for modding support. 
+   
+   This mainly focuses on Cpp and Rust support and also features Zig. It sandboxes the code and is suitable for modding support.
 
-### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html)  💍 🔌 ⚙️ 🧩
+### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html)  💍 ⚙️ 🔌 
+   
    C# support is made possible by an official Godot module. If you have the .NET version of Godot or Blazium, it comes built-in. 
    
-### [D](https://github.com/godot-dlang/godot-dlang)  👥 🔌 🧩
-   New, maintained binding to GDExtension. 
+### [D](https://github.com/godot-dlang/godot-dlang)  👥 🧩 🔌
+   
+   New, maintained binding to GDExtension, ported from the previous GDNative extension.
 
-### [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html)  💍 🧬 🔌 ⚙️ 🌍
+### [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html)  💍 ⚙️ 🧬 🔌 🌍
+   
    GDScript is actively maintained, documented and is stable. It is the primary language in the Godot ecosystem, has the most tutorials online, and deep Godot editor support.
+   
    Can be extended with [Golden Nugget](https://monnef.gitlab.io/golden-gadget/features). 
 
 ### [Go](https://github.com/grow-graphics/gd)  👥 🧩 ⚡
+   
    Go bindings to GDExtension.
    Possible to use it for shaders.
 
-### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript)  👥 🔌 🏄 🌍
+### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript)  👥 🏄 🔌 🌍
+   
    Does compile Haxe to GDScript.
    Made with the `reflaxe` framework.
 
-### [JavaScript and Typescript](https://github.com/godotjs/GodotJS)  👥 🔌 🧩 🌍
+### [JavaScript and Typescript](https://github.com/godotjs/GodotJS)  👥 🧩 🔌 🌍
+   
    Javascript and Typescript extension, with multiple different backends to choose from. 
 
-### [Kotlin, Java, and Scala.](https://github.com/utopia-rise/godot-jvm)  👥 🔌 ⚙️ 🌍 ⚡
+### [Kotlin, Java, and Scala.](https://github.com/utopia-rise/godot-jvm)  👥 ⚙️ 🔌 🌍 ⚡
+   
    Provides proper support for Kotlin and Java. Aims to support Scala in the near future as well. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
 
 ### [Lua](https://github.com/gilzoide/lua-gdextension)  👥 🧩 ⚡
+   
    New and exciting binding, that allows to use Lua both directly, and as well by calling into it from other languages.
 
-### [Nim](https://github.com/godot-nim/gdext-nim)  👥 🔌 🧩 ⚡
+### [Nim](https://github.com/godot-nim/gdext-nim)  👥 🧩 🔌 ⚡
+   
    Feature complete, hot reloadable implementation of Nim.
 
-### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  👥 🧬 🧩 ⚡
+### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  👥 🧩 🧬 ⚡
+  
    Orchestrator is a visual scripting language with advanced macro support to provide high-level abstractions.
 Friendly and competent support.
 Also usable for dialog scripting. 
 It provides rich API support, is implemented in C++, and compiles to native code. 
 
 ### [Rust](https://github.com/godot-rust/gdext)  👥 🔌 🧩 🌍 ⚡
+  
    You can find the project homepage [here.](https://godot-rust.github.io/)
 
+   Very well supported, good documentation, active community.
+
 ### [Swift](https://github.com/migueldeicaza/SwiftGodot)  👥 🔌 🧩 🌍 ⚡
+   
    Very well-supported implementation by Miguel Deicaza.
 
    There is also [SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit)
@@ -133,12 +146,6 @@ It provides rich API support, is implemented in C++, and compiles to native code
 ### [Zig](https://github.com/thimenesup/GodotZigBindings)  👥 🔌 🧩 
    Almost no documentation is provided, uncertain about the status of the project. 
 
-## 🌐 Other Useful links
-
-- See the language/scripting section on [Wikipedia.](https://en.wikipedia.org/wiki/Godot_(game_engine)#Scripting)
-- Gamesfromscratch made a [video](https://youtu.be/zdqSLz9ZpqQ) about some of the supported languages.
-- (You can expand this list!)
-
 ### Help
 
 If you want to help, and if you are a language maintainer, see here: https://github.com/Vivraan/godot-lang-support/issues
@@ -157,5 +164,11 @@ In contrast, the languages provided here are for programming the game logic. The
 - **Modules:** Maintainers/Developers define custom implementations of Godot's `Script`, `ScriptInstance`, and `ScriptLanguage` types in a module. Users add the module to the engine source code and compile the engine themselves (or a developer may provide precompiled binaries).
 
 - **GDExtension:** This is the official, new way to implement plugins for Godot 4. One of the limitations here is, that it wont support the Nintendo Switch. It has the benefit, that it does not need to be compiled into the engine, and gives more control over it.
+
+## 🌐 Other Useful links
+
+- See the language/scripting section on [Wikipedia.](https://en.wikipedia.org/wiki/Godot_(game_engine)#Scripting)
+- Gamesfromscratch made a [video](https://youtu.be/zdqSLz9ZpqQ) about some of the supported languages.
+- (You can expand this list!)
 
 ## Enjoy ^-^
