@@ -29,7 +29,7 @@
    You can code your entire project (or parts of it) in C++ and include the game logic as Godot modules.
 
  ### [C++ / Jenova](https://jenova-framework.github.io/)  🧬 🔌 👥 🧩
-   Jenova provides hot reloadable C++  scripting, support for Visual Studio, VSCode, and Godot itself, and also a lot of other features like support for nested GDExtension development, an inbuilt virtual machine for starting an entire OS that can be embedded into the game and interacted with it.
+   Jenova provides hot reloadable C++  scripting, support for Visual Studio, VSCode, and Godot itself, and other features as support for nested GDExtension development, and an inbuilt virtual machine for starting an entire OS that can be embedded into the game and interacted with it.
 
    It is one of the most advanced, and best maintained community extensions.
 
