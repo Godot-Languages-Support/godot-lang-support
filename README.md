@@ -2,10 +2,6 @@
 
 ## Categories
 
-### By editor support
-- 🧬 Can be edited inside the Godot Engine (and its forks)
-- 🔌 Has support for the Godot API in an external editor.
-
 ### By maintainer
 - 💍 Official
 - 👥 Community-maintained
@@ -16,11 +12,19 @@
 - 🏄 "Surfs" on another language
 - 🏰 Sandboxes the code
 
-## 🏆🥇 Production Ready
+### By editor support
+- 🧬 Can be edited inside the Godot Engine (and its forks)
+- 🔌 Has support for the Godot API in an external editor.
+
+### By target platform 
+- 🌍 Web
+- ⚡ On JIT banned platforms (Switch, iOS) 
+
+## 🏆🥇 Production ready
    These languages are documented and stable.  
    *In alphabetical order*. 
    
-### [C++ / Godot module](https://docs.godotengine.org/en/stable/contributing/development/core_and_modules/custom_modules_in_cpp.html)  💍 ⚙️
+### [C++ / Godot module](https://docs.godotengine.org/en/stable/contributing/development/core_and_modules/custom_modules_in_cpp.html)  💍 ⚙️ 🌍 ⚡
    
    You can code your entire project (or parts of it) in C++ and include the game logic as Godot modules.
 
@@ -33,49 +37,49 @@
 
    A non-free edition that provides encrypted code obfuscation and more, is also available.
 
-### [C++, Rust and Zig](https://github.com/libriscv/godot-sandbox)  👥 🏰 🧩
+### [C++, Rust and Zig](https://github.com/libriscv/godot-sandbox)  👥 🏰 🧩 🌍 ⚡
    This mainly focuses on Cpp and Rust support and also features Zig. It sandboxes the code and is suitable for modding support. 
 
 ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html)  💍 🔌 ⚙️ 🧩
-   C# support is made possible by an official Godot module. If you have the dotnet version of Godot or Blazium, it comes built-in. It does not support web export via wasm as of now.
+   C# support is made possible by an official Godot module. If you have the .NET version of Godot or Blazium, it comes built-in. 
    
 ### [D](https://github.com/godot-dlang/godot-dlang)  👥 🔌 🧩
    New, maintained binding to GDExtension. 
 
-### [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html)  💍 🧬 🔌 ⚙️
+### [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html)  💍 🧬 🔌 ⚙️ 🌍
    GDScript is actively maintained, documented and is stable. It is the primary language in the Godot ecosystem, has the most tutorials online, and deep Godot editor support.
    Can be extended with [Golden Nugget](https://monnef.gitlab.io/golden-gadget/features). 
 
-### [Go](https://github.com/grow-graphics/gd)  👥 🧩
+### [Go](https://github.com/grow-graphics/gd)  👥 🧩 ⚡
    Go bindings to GDExtension.
    Possible to use it for shaders.
 
-### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript)  👥 🔌 🏄
+### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript)  👥 🔌 🏄 🌍
    Does compile Haxe to GDScript.
    Made with the `reflaxe` framework.
 
-### [JavaScript and Typescript](https://github.com/godotjs/GodotJS)  👥 🔌 🧩
+### [JavaScript and Typescript](https://github.com/godotjs/GodotJS)  👥 🔌 🧩 🌍
    Javascript and Typescript extension, with multiple different backends to choose from. 
 
-### [Kotlin, Java, and Scala.](https://github.com/utopia-rise/godot-jvm)  👥 🔌 ⚙️
+### [Kotlin, Java, and Scala.](https://github.com/utopia-rise/godot-jvm)  👥 🔌 ⚙️ 🌍 ⚡
    Provides proper support for Kotlin and Java. Aims to support Scala in the near future as well. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
 
-### [Lua](https://github.com/gilzoide/lua-gdextension)  👥 🧩
+### [Lua](https://github.com/gilzoide/lua-gdextension)  👥 🧩 ⚡
    New and exciting binding, that allows to use Lua both directly, and as well by calling into it from other languages.
 
-### [Nim](https://github.com/godot-nim/gdext-nim)  👥 🔌 🧩
+### [Nim](https://github.com/godot-nim/gdext-nim)  👥 🔌 🧩 ⚡
    Feature complete, hot reloadable implementation of Nim.
 
-### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  👥 🧬 🧩
+### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  👥 🧬 🧩 ⚡
    Orchestrator is a visual scripting language with advanced macro support to provide high-level abstractions.
 Friendly and competent support.
 Also usable for dialog scripting. 
 It provides rich API support, is implemented in C++, and compiles to native code. 
 
-### [Rust](https://github.com/godot-rust/gdext)  👥 🔌 🧩
+### [Rust](https://github.com/godot-rust/gdext)  👥 🔌 🧩 🌍 ⚡
    You can find the project homepage [here.](https://godot-rust.github.io/)
 
-### [Swift](https://github.com/migueldeicaza/SwiftGodot)  👥 🔌 🧩
+### [Swift](https://github.com/migueldeicaza/SwiftGodot)  👥 🔌 🧩 🌍 ⚡
    Very well-supported implementation by Miguel Deicaza.
 
    There is also [SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit)
@@ -110,13 +114,13 @@ It provides rich API support, is implemented in C++, and compiles to native code
 ### [Python 2](https://github.com/niklas2902/py4godot)  👥 🧬 🧩
    Python implementation from scratch. 
 
-### [WASM](https://github.com/Dheatly23/godot-wasm)  👥 🏰 🏄
+### [WASM](https://github.com/Dheatly23/godot-wasm)  👥 🏰 🏄 🌍
    Bindings for wasm. Implemented via the Rust bindings.
 
-### [WASM 2](https://github.com/ashtonmeuser/godot-wasm)  👥 🏰 ⚙️ 🧩
+### [WASM 2](https://github.com/ashtonmeuser/godot-wasm)  👥 🏰 ⚙️ 🧩 🌍
    Allows to load WASM libraries from other languages. Available as both module and GDExtension.
 
-### [Zig](https://github.com/thimenesup/GodotZigBindings)  👥 🔌 🧩
+### [Zig](https://github.com/thimenesup/GodotZigBindings)  👥 🔌 🧩 
    Almost no documentation is provided, uncertain about the status of the project. 
 
 ## 🌐 Other Useful links
