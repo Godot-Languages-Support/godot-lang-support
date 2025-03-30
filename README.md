@@ -48,7 +48,7 @@
    
    As an example, users should not use functions stored in JenovaSDK unless they build it statically, and link against it.
 
-### [C++, Rust and Zig](https://github.com/libriscv/godot-sandbox)  👥 🏰 🧩 🌍 ⚡
+### [C++, Rust and Zig](https://github.com/libriscv/godot-sandbox)  👥 🧩 🏰 🌍 ⚡
    
    This mainly focuses on Cpp and Rust support and also features Zig. It sandboxes the code and is suitable for modding support.
 
@@ -71,7 +71,7 @@
    Go bindings to GDExtension.
    Possible to use it for shaders.
 
-### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript)  👥 🏄 🔌 🌍
+### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript)  👥 🔌 🏄 🌍
    
    Does compile Haxe to GDScript.
    Made with the `reflaxe` framework.
@@ -82,7 +82,11 @@
 
 ### [Kotlin, Java, and Scala.](https://github.com/utopia-rise/godot-jvm)  👥 ⚙️ 🔌 🌍 ⚡
    
-   Provides proper support for Kotlin and Java. Aims to support Scala in the near future as well. Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
+   Provides proper support for Kotlin and Java. Aims to support Scala in the near future as well. 
+   
+   GraalVM with [Native Image](https://www.graalvm.org/latest/reference-manual/native-image/) is also supported.
+   
+   Their [Discord](https://discord.gg/3NSA7fKBMD) is nice and friendly.
 
 ### [Lua](https://github.com/gilzoide/lua-gdextension)  👥 🧩 ⚡
    
@@ -96,6 +100,7 @@
   
    Orchestrator is a visual scripting language with advanced macro support to provide high-level abstractions.
 Friendly and competent support.
+
 Also usable for dialog scripting. 
 It provides rich API support, is implemented in C++, and compiles to native code. 
 
