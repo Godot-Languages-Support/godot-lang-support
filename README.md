@@ -94,7 +94,7 @@
    
    New and exciting binding, that allows to use Lua both directly, and as well by calling into it from other languages.
 
-### [Nim](https://github.com/godot-nim/gdext-nim)  👥 🧩 🔌 ⚡ 
+### [Nim](https://github.com/godot-nim/gdext-nim)  👥 🧩 🔌 🌍 ⚡ 
    
    Feature complete, hot reloadable implementation of Nim.
 
