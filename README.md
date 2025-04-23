@@ -150,6 +150,9 @@ It provides rich API support, is implemented in C++, and compiles to native code
 ### [Python 2](https://github.com/niklas2902/py4godot)  👥 🧬 🧩
    Python implementation from scratch. 
 
+### [V](https://github.com/rosshadden/gdext-v)  👥 🔌 🧩
+   Bindings for [the V programming language](https://vlang.io/).
+
 ### [WASM](https://github.com/Dheatly23/godot-wasm)  👥 🏰 🏄 🌍
    Bindings for wasm. Implemented via the Rust bindings.
 
