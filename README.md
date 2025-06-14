@@ -131,6 +131,7 @@ It provides rich API support, is implemented in C++, and compiles to native code
 
 ## 🥈 Halfway there
    In active development, and comparable to being in the beta stage.
+The emojis here might be incomplete.
 
 ### [Block Coding](https://github.com/endlessm/godot-block-coding)  🧬 👥 🧩
    Scratch-like visual coding in blocks.
@@ -158,6 +159,10 @@ It provides rich API support, is implemented in C++, and compiles to native code
 
 ### [WASM 2](https://github.com/ashtonmeuser/godot-wasm)  👥 🏰 ⚙️ 🧩 🌍
    Allows to load WASM libraries from other languages. Available as both module and GDExtension.
+
+### [Zig](https://github.com/Doubleword-Labs/godot-zig) 👥 🔌 🧩 
+
+   Makes good progress, still in beta.
 
 ### [Zig](https://github.com/thimenesup/GodotZigBindings)  👥 🔌 🧩 
    Almost no documentation is provided, uncertain about the status of the project. 
