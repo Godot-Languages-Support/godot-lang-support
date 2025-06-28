@@ -124,7 +124,7 @@ It provides rich API support, is implemented in C++, and compiles to native code
    Stable programming languages, ... with a twist 😉 
 
 ### [Enu](https://github.com/dsrw/enu)  👥 🧬 ⚙️
-   Experimental block-based language and framework. 
+   Logo-like framework in a block-based 3D world. Based on Nim.
 
 ### [Ink](https://github.com/inkle/ink)  👥 🔌 🏄
    Scripting language for writing interactive narrative.
