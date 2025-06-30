@@ -18,9 +18,9 @@
 
 ### By target platform 
 - 🌍 Web
-- ⚡ On JIT restricted platforms (Switch, iOS) *
+- ⚡ On JIT restricted platforms (Consoles, iOS) *
 
-* Switch support is not available by default; an SDK and implementation are also needed.
+* Consoles support is not available by default; an SDK and implementation are also needed.
 
 ## 🏆🥇 Production ready
    These languages are documented and stable.  
@@ -96,8 +96,6 @@
 ### [Nim](https://github.com/godot-nim/gdext-nim)  👥 🧩 🔌 🌍 ⚡ 
    
    Feature-complete, hot-reloadable implementation of Nim.
-
-   Web support is on the roadmap for the next release.
 
 ### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  👥 🧩 🧬 ⚡
   
