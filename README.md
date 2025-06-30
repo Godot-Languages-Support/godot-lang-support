@@ -32,22 +32,21 @@
 
  ### [C++ / Jenova](https://jenova-framework.github.io/)  👥 🧩 🧬 🔌
    
-   Jenova provides hot reloadable C++  scripting and support for Visual Studio, VSCode, and the Godot editor.
+   Jenova provides hot reloadable C++  scripting and support for Visual Studio, VSCode, plus the Godot editor.
    
-   Also, there is support for and nested GDExtension development, and an inbuilt virtual machine for running an entire OS that can be embedded into the game and interacted with.
+   Also, there is support for nested GDExtension development, and an inbuilt virtual machine for running an entire OS that can be embedded into the game and interacted with.
 
    It is one of the most advanced and best-maintained community extensions.
 
    The performance is factually on the same level as native C++, with a 0.005ms impact for calling functions from Godot.
 
-   It also provides its API for the development of extensions, although that is currently undocumented.
+   Jenova also provides its API for the development of extensions, although that is currently undocumented.
 
-   Currently, it is only available for Windows and Linux, both in terms of the development and the export itself.
+   It is only available for Windows and Linux, both in terms of the development and the export itself.
 
-   It is possible to develop with Jenova and use one of the other two C++ integrations or GDExtension to ship the game to more platforms.
+   You can do the developmental stage with Jenova and then use one of the other two C++ integrations, or GDExtension itself, to ship the game to more platforms.
 
    In that case, you should be aware of potentially missing features with these extensions.
-   
    As an example, users should not use functions stored in JenovaSDK unless they build it statically and link against it.
 
 ### [C++, Rust and Zig](https://github.com/libriscv/godot-sandbox)  👥 🧩 🏰 🌍 ⚡
