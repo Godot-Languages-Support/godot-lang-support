@@ -56,14 +56,11 @@
 ### [C#](https://docs.godotengine.org/en/stable/getting_started/scripting/c_sharp/index.html)  💍 ⚙️ 🔌 
    
    C# support is made possible by an official Godot module. If you have the .NET version of Godot or Blazium, it comes built-in. 
-   
-### [D](https://github.com/godot-dlang/godot-dlang)  👥 🧩 🔌
-   
-   New, maintained binding to GDExtension, ported from the previous GDNative extension.
 
 ### [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html)  💍 ⚙️ 🧬 🔌 🌍
    
-   GDScript is actively maintained, documented, and stable. It is the primary language in the Godot ecosystem, has the most tutorials online, and deep Godot editor support.
+   GDScript is actively maintained, documented, and stable.  
+It is the primary language in the Godot ecosystem, has the most tutorials online, and deep Godot editor support.
    
    Can be extended with [Golden Nugget](https://monnef.gitlab.io/golden-gadget/features). 
 
@@ -99,10 +96,9 @@
 
 ### [Orchestrator](https://github.com/CraterCrash/godot-orchestrator)  👥 🧩 🧬 ⚡
   
-   Orchestrator is a visual scripting language with advanced macro support to provide high-level abstractions.
-Friendly and competent support.
+   Orchestrator is a visual scripting language with advanced macro support to provide high-level abstractions.  
+Friendly and competent support. Also usable for dialog scripting.  
 
-Also usable for dialog scripting. 
 It provides rich API support, is implemented in C++, and compiles to native code. 
 
 ### [Rust](https://github.com/godot-rust/gdext)  👥 🔌 🧩 🌍 ⚡
@@ -134,7 +130,11 @@ The emojis here might be incomplete.
    Scratch-like visual coding in blocks.
 
 ### [BlockFlow](https://github.com/anidemdex/blockflow)  🧬 👥 🧩
-   Eventsheet based coding. A visual scripting designed to help in those scenarios that you need visual control of things that may happen sequentially in game.
+   Eventsheet-based coding.  
+A visual scripting designed to help in those scenarios that you need visual control of things that may happen sequentially in-game.
+
+### [D](https://github.com/godot-dlang/godot-dlang)  👥 🧩 🔌
+   New, maintained binding to GDExtension, ported from the previous GDNative extension.
 
 ### [Dart](https://github.com/fuzzybinary/godot_dart)  👥 🧩
    The project's README contains a detailed roadmap.
