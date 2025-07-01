@@ -133,6 +133,9 @@ The emojis here might be incomplete.
 ### [Block Coding](https://github.com/endlessm/godot-block-coding)  🧬 👥 🧩
    Scratch-like visual coding in blocks.
 
+### [BlockFlow](https://github.com/anidemdex/blockflow)  🧬 👥 🧩
+   Eventsheet based coding. A visual scripting designed to help in those scenarios that you need visual control of things that may happen sequentially in game.
+
 ### [Dart](https://github.com/fuzzybinary/godot_dart)  👥 🧩
    The project's README contains a detailed roadmap.
 
