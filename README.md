@@ -42,7 +42,7 @@
 
    Jenova also provides its API for the development of extensions, although that is currently undocumented.
 
-   It is only available for Windows and Linux, both in terms of the development and the export itself.
+   It is only available for Windows, Linux, and macOS, both in terms of the development and the export itself.
 
    You can do the developmental stage with Jenova and then use one of the other two C++ integrations, or GDExtension itself, to ship the game to more platforms.
 
