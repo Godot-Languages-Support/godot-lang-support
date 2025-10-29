@@ -62,7 +62,7 @@
    GDScript is actively maintained, documented, and stable.  
 It is the primary language in the Godot ecosystem, has the most tutorials online, and deep Godot editor support.
    
-   Can be extended with [Golden Nugget](https://monnef.gitlab.io/golden-gadget/features). 
+   Can be extended with [Golden Gadget](https://monnef.gitlab.io/golden-gadget/features). 
 
 ### [Go](https://github.com/grow-graphics/gd)  👥 🧩 ⚡ 🌍
    
@@ -71,7 +71,7 @@ It is the primary language in the Godot ecosystem, has the most tutorials online
 
 ### [Haxe](https://github.com/SomeRanDev/reflaxe.GDScript)  👥 🔌 🏄 🌍
    
-   Does compile Haxe to GDScript.
+   Compiles Haxe to GDScript.
    Made with the [reflaxe](https://github.com/SomeRanDev/reflaxe) framework.
 
 ### [JavaScript and Typescript](https://github.com/godotjs/GodotJS)  👥 🧩 🔌 🌍
@@ -131,7 +131,7 @@ The emojis here might be incomplete.
 
 ### [BlockFlow](https://github.com/anidemdex/blockflow)  🧬 👥 🧩
    Eventsheet-based coding.  
-A visual scripting designed to help in those scenarios that you need visual control of things that may happen sequentially in-game.
+A visual scripting designed to help in those scenarios where you need visual control of things that may happen sequentially in-game.
 
 ### [D](https://github.com/godot-dlang/godot-dlang)  👥 🧩 🔌
    New, maintained binding to GDExtension, ported from the previous GDNative extension.
