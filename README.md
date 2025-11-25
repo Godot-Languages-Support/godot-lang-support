@@ -190,6 +190,7 @@ In contrast, the languages provided here are for programming the game logic. The
 
 - See the language/scripting section on [Wikipedia.](https://en.wikipedia.org/wiki/Godot_(game_engine)#Scripting)
 - Gamesfromscratch made a [video](https://youtu.be/zdqSLz9ZpqQ) about some of the supported languages.
+- Jeff Ward made a [talks](https://www.youtube.com/watch?v=opHWwaogQvw) at GodotConf 2025 about adding new Script Languages to Godot.
 - (You can expand this list!)
 
 ## Enjoy ^-^
