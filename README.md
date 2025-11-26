@@ -14,7 +14,7 @@
 
 ### By editor support
 - 🧬 Can be edited inside the Godot Engine (and its forks)
-- 🔌 Has support for the Godot API in an external editor.
+- 🔌 Has support for the Godot API being edited in an external editor.
 
 ### By target platform 
 - 🌍 Web
@@ -124,7 +124,8 @@ It provides rich API support, is implemented in C++, and compiles to native code
 
 ## 🥈 Halfway there
    In active development, and comparable to being in the beta stage.
-The emojis here might be incomplete.
+
+*The emojis here might be incomplete.*
 
 ### [Block Coding](https://github.com/endlessm/godot-block-coding)  🧬 👥 🧩
    Scratch-like visual coding in blocks.
@@ -138,6 +139,9 @@ A visual scripting designed to help in those scenarios where you need visual con
 
 ### [Dart](https://github.com/fuzzybinary/godot_dart)  👥 🧩
    The project's README contains a detailed roadmap.
+
+### [FlowKit](https://github.com/LexianDEV/FlowKit) 👥 🧬 
+   Intuitive visual event based language.
 
 ### [Go 2](https://github.com/godot-go/godot-go/)  👥 🔌 🧩
    Go bindings to GDExtension.
