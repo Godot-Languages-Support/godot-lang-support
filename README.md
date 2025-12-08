@@ -62,8 +62,6 @@
    GDScript is actively maintained, documented, and stable.  
 It is the primary language in the Godot ecosystem, has the most tutorials online, and deep Godot editor support.
    
-   Can be extended with [Golden Gadget](https://monnef.gitlab.io/golden-gadget/features). 
-
 ### [Go](https://github.com/grow-graphics/gd)  👥 🧩 ⚡ 🌍
    
    Go bindings to GDExtension.
