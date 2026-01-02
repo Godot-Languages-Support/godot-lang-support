@@ -26,7 +26,7 @@
    These languages are documented and stable.  
    *In alphabetical order*. 
    
-### [C++ / Godot module](https://docs.godotengine.org/en/stable/contributing/development/core_and_modules/custom_modules_in_cpp.html)  💍 ⚙️ 🌍 ⚡
+### [C++ / Godot module](https://docs.godotengine.org/en/4.4/contributing/development/core_and_modules/custom_modules_in_cpp.html)  💍 ⚙️ 🌍 ⚡
    
    You can code your entire project (or parts of it) in C++ and include the game logic as Godot modules.
 
