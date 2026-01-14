@@ -7,7 +7,9 @@ Godot Engine and its forks are licensed by their respective authors. Relevant li
 
 For each language support project, look for a `LICENSE` file on their public source code mirror, or contact the project's authors for licensing information.
 
-We do not list language support projects that do not have public source code mirrors. The [Help](##Help) section has more info.
+This document is licensed under [CC-BY-4.0](/LICENSE).
+
+We do not list language support projects that do not have public source code mirrors. The [Help](/#help) section has more info.
 
 ## Categories
 
@@ -185,7 +187,7 @@ If you want to help, or if you are a language maintainer, check our [issues page
 ### What about Godot 3?
 This list is for Godot 4. In case you are looking for Godot 3 bindings, find them at [this commit](https://github.com/Godot-Languages-Support/godot-lang-support/blob/15fb99b3214959432aedffb91218b4bd33d3789f/README.md)
 
-Note that some of the projects mentioned there have transitioned from Godot 3 to Godot 4, so you will have to use one of their older versions for compatibility. Contact the respective project authors for more information. See [Disclaimer](##DISCLAIMER).
+Note that some of the projects mentioned there have transitioned from Godot 3 to Godot 4, so you will have to use one of their older versions for compatibility. Contact the respective project authors for more information. See [Disclaimer](/#disclaimer).
 
 Godot Engine and its modules are developed in C++.
 For info on those, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
