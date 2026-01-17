@@ -1,15 +1,12 @@
 # 🗺 An overview of the available language bindings for Godot & Co
 
-## DISCLAIMER
-Godot Languages Support ("This Document") aims to provide a faithful snapshot of the language bindings, support, and extension projects that target Godot Engine or its various source code forks. Godot Languages Support Contributors ("We", "Us") do not claim ownership or authorship of Godot Engine, its source code forks, or any of the projects mentioned in This Document ("Mentioned Projects"), unless the explicit permission of the owners or authors of a project, as per the licensing criteria, for any respective project from the Mentioned Projects ("Per-Project Criteria"), permits Us to claim ownership or authorship of that specific project in part or in whole. We therefore DISCLAIM ALL LIABILITIES relating to feature development across the Mentioned Projects UNLESS the Per-Project Criteria permit us to claim ownership or authorship.
+Godot Languages Support aims to provide a faithful snapshot of the language bindings, support, and extension projects that target Godot Engine or its various source code forks.
 
-Godot Engine and its forks are licensed by their respective authors. Relevant licensing information is available on their website or on public source code mirrors.
+Godot Engine and its forks are licensed by their respective maintainers. Relevant licensing information is available on their website or on public source code mirrors.
 
-For each language support project, look for a `LICENSE` file on their public source code mirror, or contact the project's authors for licensing information.
+For each language support project, look for a `LICENSE` file on their public source code mirror, or contact the project's maintainers for licensing information.
 
-This document is licensed under [CC-BY-4.0](/LICENSE).
-
-We do not list language support projects that do not have public source code mirrors. The [Help](/#help) section has more info.
+This document is licensed under [CC-BY-4.0](/LICENSE). We do need [help](/#help) to keep it as up-to-date as possible!
 
 ## Categories
 
@@ -182,12 +179,23 @@ A visual scripting designed to help in those scenarios where you need visual con
 
 ## Help
 
-If you want to help, or if you are a language maintainer, check our [issues page](https://github.com/Godot-Languages-Support/godot-lang-support/issues).
+As a small **volunteer** team with only two active doc maintainers (@ShalokShalom and @Vivraan), tracking community favourites versus cool upcoming demos of the GDExtension technology is challenging, given our busy schedules and attention spans 🫠
+
+We welcome active contributors! If you are a language binding maintainer or wish to update us about new, existing, or discontinued projects, please submit a pull request with the relevant edits to this README.
+
+We also accept issue submissions, but we will always prioritise PRs:
+- PRs allow us to gather attention from various community members, including project maintainers, when describing the project.
+- PRs take the pressure off, giving us time for detailed reviews and comments, and may even help us merge changes faster.
+
+### GitHub Copilot/LLM/GenAI Statement
+
+We aren't a code repository, but we will be ironsighted about requests that we suspect have used GenAI or the GitHub Copilot service. We consider that using a grammar engine to modify existing typed text differs from completely generating content through an LLM, and we will verify suspected claims introduced in diffs.
 
 ### What about Godot 3?
+
 This list is for Godot 4. In case you are looking for Godot 3 bindings, find them at [this commit](https://github.com/Godot-Languages-Support/godot-lang-support/blob/15fb99b3214959432aedffb91218b4bd33d3789f/README.md)
 
-Note that some of the projects mentioned there have transitioned from Godot 3 to Godot 4, so you will have to use one of their older versions for compatibility. Contact the respective project authors for more information. See [Disclaimer](/#disclaimer).
+Note that some of the projects mentioned there have transitioned from Godot 3 to Godot 4, so you will have to use one of their older versions for compatibility. Contact project maintainers for more information and let us know ASAP!
 
 Godot Engine and its modules are developed in C++.
 For info on those, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
