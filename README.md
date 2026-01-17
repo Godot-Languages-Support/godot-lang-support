@@ -3,7 +3,7 @@
 This repository aims to provide a faithful overview of the available language bindings,  
 and other related projects that target the Godot Engine, or one of its many forks.
 
-For each language support project, look for the individual `LICENSE` file on the public repository that is linked.
+For each language support project, look for the individual `LICENSE` file on the public repository that is linked.  
 This document itself is licensed under the [CC-BY-4.0](/LICENSE). We do welcome [help](/#help) to keep it as up-to-date as possible!
 
 ## Categories
