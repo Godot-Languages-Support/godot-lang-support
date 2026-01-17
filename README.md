@@ -1,12 +1,10 @@
 # 🗺 An overview of the available language bindings for Godot & Co
 
-Godot Languages Support aims to provide a faithful snapshot of the language bindings, support, and extension projects that target Godot Engine or its various source code forks.
+This repository aims to provide a faithful overview of the available language bindings,  
+and other related projects that target the Godot Engine, or one of its many forks.
 
-Godot Engine and its forks are licensed by their respective maintainers. Relevant licensing information is available on their website or on public source code mirrors.
-
-For each language support project, look for a `LICENSE` file on their public source code mirror, or contact the project's maintainers for licensing information.
-
-This document is licensed under [CC-BY-4.0](/LICENSE). We do need [help](/#help) to keep it as up-to-date as possible!
+For each language support project, look for the individual `LICENSE` file on the public repository that is linked.
+This document itself is licensed under the [CC-BY-4.0](/LICENSE). We do welcome [help](/#help) to keep it as up-to-date as possible!
 
 ## Categories
 
@@ -179,7 +177,7 @@ A visual scripting designed to help in those scenarios where you need visual con
 
 ## Help
 
-As a small **volunteer** team with only two active doc maintainers (@ShalokShalom and @Vivraan), tracking community favourites versus cool upcoming demos of the GDExtension technology is challenging, given our busy schedules and attention spans 🫠
+As a small **volunteer** team with only two active maintainers (@ShalokShalom and @Vivraan), tracking community favourites versus cool upcoming demos of the GDExtension technology is challenging, given our busy schedules and attention spans 🫠
 
 We welcome active contributors! If you are a language binding maintainer or wish to update us about new, existing, or discontinued projects, please submit a pull request with the relevant edits to this README.
 
@@ -200,11 +198,17 @@ Note that some of the projects mentioned there have transitioned from Godot 3 to
 Godot Engine and its modules are developed in C++.
 For info on those, please start with the official docs for [contributing to the engine](https://docs.godotengine.org/en/stable/community/contributing/index.html) and [understanding engine development](https://docs.godotengine.org/en/stable/development/cpp/index.html).
 
-In contrast, the languages provided here are for programming the game logic (often called scripting). There are different methods for extending the engine and granting additional language support:
+In contrast, the languages provided here are for programming the game logic (often called scripting).  
+There are different methods for extending the engine and granting additional language support:
 
-- **Modules:** Maintainers/Developers define custom implementations of Godot's `Script`, `ScriptInstance`, and `ScriptLanguage` types in a module. Users add the module to the engine source code and compile the engine themselves (or a developer may provide precompiled binaries).
+- **Modules:** maintainers/Developers define custom implementations of Godot's `Script`, `ScriptInstance`, and `ScriptLanguage` types in a module. Users add the module to the engine source code and compile the engine themselves (or a developer may provide precompiled binaries).
 
 - **GDExtension:** This is the official, new way to implement plugins for Godot 4. One of the limitations here is that it won't support the Nintendo Switch. It has the benefit that it does not need to be compiled into the engine, and gives more control over it.
+
+## Licensing note
+
+The Godot Engine and its individual forks are licensed by their respective maintainers. 
+Relevant licensing information is available on their website or on public source code mirrors.
 
 ## 🌐 Other Useful links
 
