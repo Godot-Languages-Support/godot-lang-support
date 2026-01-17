@@ -26,7 +26,7 @@ This document itself is licensed under the [CC-BY-4.0](/LICENSE). We do welcome 
 - 🌍 Web
 - ⚡ On JIT restricted platforms (Consoles, iOS)^
 
-^Consoles support is not available by default; an SDK and implementation are also needed.
+Console support is not available by default; an SDK and implementation are also needed.
 
 ## 🏆🥇 Production ready
    These languages are documented and stable.  
@@ -187,7 +187,8 @@ We also accept issue submissions, but we will always prioritise PRs:
 
 ### GitHub Copilot/LLM/GenAI Statement
 
-We aren't a code repository, but we will be ironsighted about requests that we suspect have used GenAI or the GitHub Copilot service. We consider that using a grammar engine to modify existing typed text differs from completely generating content through an LLM, and we will verify suspected claims introduced in diffs.
+We aren't a code repository, but we will be ironsighted about requests that we suspect have used generative AI.   
+What we do use and permit is the use of grammar checkers, like LanguageTool and Grammarly. 
 
 ### What about Godot 3?
 
