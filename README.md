@@ -153,6 +153,9 @@ A visual scripting designed to help in those scenarios where you need visual con
 ### [Lua](https://github.com/perbone/luascript)  👥 🧬 🔌 ⚙️
    This version of Lua is currently undergoing a partial rewrite and seems to be stuck in development.
 
+### [Odin](https://github.com/dresswithpockets/odin-godot) 👥 🔌 🧩
+   An upcoming Odin binding using GDExtension. The README also mentions a (heavily-caveated) preprocessor mode called "Godin" for autogenerating Godot boilerplate.
+
 ### [Python](https://github.com/touilleMan/godot-python/tree/godot4-meson)  👥 🧬 🔌 🧩
    Currently in reconstruction.
 
