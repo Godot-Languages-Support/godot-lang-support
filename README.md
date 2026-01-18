@@ -156,8 +156,11 @@ A visual scripting designed to help in those scenarios where you need visual con
 ### [Python](https://github.com/touilleMan/godot-python/tree/godot4-meson)  👥 🧬 🔌 🧩
    Currently in reconstruction.
 
-### [Python 2](https://github.com/niklas2902/py4godot)  👥 🧬 🧩
+### [Python 2](https://github.com/niklas2902/py4godot)  👥 🧬 🔌 🧩
    Python implementation from scratch. 
+
+### [Python 3](https://github.com/maiself/godot-python-extension) 👥 🔌 🧩 (everyone loves Python)
+   Yet another Python GDExtension binding. Seems relatively inactive compared to the first two.
 
 ### [V](https://github.com/rosshadden/gdext-v)  👥 🔌 🧩
    Bindings for [the V programming language](https://vlang.io/).
