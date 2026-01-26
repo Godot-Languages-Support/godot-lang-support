@@ -77,7 +77,7 @@ Console support is not available by default; an SDK and implementation are also 
    Compiles Haxe to GDScript.
    Made with the [reflaxe](https://github.com/SomeRanDev/reflaxe) framework.
 
-### [JavaScript and Typescript](https://github.com/godotjs/GodotJS)  👥 🧬 🔌 🌍
+### [JavaScript and Typescript](https://github.com/godotjs/GodotJS)  👥 ⚙️ 🧬 🔌 🌍
    
    JavaScript and TypeScript extension, with multiple different backends to choose from. 
 
