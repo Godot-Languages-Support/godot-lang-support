@@ -15,7 +15,7 @@ This document itself is licensed under the [CC-BY-4.0](/LICENSE). We do welcome 
 ### By method
 - ⚙️ Module
 - 🧩 GDExtension
-- 🏄 "Surfs" on another language
+- 🏄 "Surfs" in another language
 - 🏰 Sandboxes the code
 
 ### By editor support
@@ -24,9 +24,10 @@ This document itself is licensed under the [CC-BY-4.0](/LICENSE). We do welcome 
 
 ### By target platform 
 - 🌍 Web
-- ⚡ On JIT restricted platforms (Consoles, iOS)^
+- ⚡ On JIT restricted platforms (Consoles, iOS)
 
 Console support is not available by default; an SDK and implementation are also needed.
+Respect that JIT restricted platforms also don't allow downloading code from remote sources. 
 
 ## 🏆🥇 Production ready
    These languages are documented and stable.  
@@ -67,7 +68,7 @@ Console support is not available by default; an SDK and implementation are also 
    
    GDScript is actively maintained, documented, and stable. It is the primary language in the Godot ecosystem, has the most tutorials online, and deep Godot editor support.
    
-### [Go](https://github.com/grow-graphics/gd)  👥 🧩 ⚡ 🌍
+### [Go](https://github.com/grow-graphics/gd)  👥 🧩 🌍 ⚡
    
    Go bindings to GDExtension.
    Possible to use it for shaders.
@@ -77,7 +78,7 @@ Console support is not available by default; an SDK and implementation are also 
    Compiles Haxe to GDScript.
    Made with the [reflaxe](https://github.com/SomeRanDev/reflaxe) framework.
 
-### [JavaScript and Typescript](https://github.com/godotjs/GodotJS)  👥 ⚙️ 🧬 🔌 🌍
+### [JavaScript and Typescript](https://github.com/godotjs/GodotJS)  👥 ⚙️ 🧬 🔌 🌍 ⚡
    
    JavaScript and TypeScript extension, with multiple different backends to choose from. 
 
