@@ -112,7 +112,7 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
 
    Very well-supported, good documentation, and an active community.
 
-### [Swift](https://github.com/migueldeicaza/SwiftGodot)  👥 🔌 🧩 🌍 ⚡
+### [Swift](https://github.com/migueldeicaza/SwiftGodot)  👥 🔌 🧩 ⚡
    
    Very well-supported implementation by Miguel Deicaza.
 
