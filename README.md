@@ -182,6 +182,9 @@ A visual scripting designed to help in those scenarios where you need visual con
 ### [Zig 2](https://github.com/thimenesup/GodotZigBindings)  👥 🔌 🧩 
    Almost no documentation is provided. This project's status is uncertain. 
 
+### [Kotlin](https://github.com/kingg22/kogot) 👥 🧩 🔌
+   In Development, uses Kotlin Native instead of JVM
+
 ## Help
 
 As a small **volunteer** team with only two active maintainers (@ShalokShalom and @Vivraan), tracking community favourites versus cool upcoming demos of the GDExtension technology is challenging, given our busy schedules and attention spans 🫠
