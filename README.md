@@ -195,6 +195,10 @@ The _TinyCC_ C compiler integrated as a GDExtension.
 ### [Scala Native](https://github.com/julian-avar/gdext-sc-native) 👥 🧩
    In Development, uses Scala Native instead of JVM
 
+### [Scala Native SBT](https://github.com/optical002/godot-scala-native) 👥 🧩
+   In Development, uses Scala Native SBT instead of JVM and instead of Mill like above.
+   Has built-in godot plugin for launching SBT server from editor.
+
 ## Help
 
 As a small **volunteer** team with only two active maintainers (@ShalokShalom and @Vivraan), tracking community favourites versus cool upcoming demos of the GDExtension technology is challenging, given our busy schedules and attention spans 🫠
