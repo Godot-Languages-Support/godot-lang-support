@@ -196,9 +196,10 @@ The _TinyCC_ C compiler integrated as a GDExtension.
    In Development, uses Scala Native instead of JVM
 
 ### [Scala Native SBT](https://github.com/optical002/godot-scala-native) 💍 🧩 🔌
-   Scala Native typesafe, batteries included implementation with SBT build system. Has built-in 
+   Scala Native typesafe, batteries included implementation with SBT build tool. Has built-in 
    godot plugin for launching SBT server from editor. Supports simple syntax, can build nodes 
-   without any annotations (supports nodes for custom inspector display e.g. show range, file open).
+   without any annotations (supports annotations for custom inspector display e.g. show range, file open).
+   Focusing on implementing seamless experience for developing games with godot in scala.
 
 ## Help
 
