@@ -195,9 +195,10 @@ The _TinyCC_ C compiler integrated as a GDExtension.
 ### [Scala Native](https://github.com/julian-avar/gdext-sc-native) 👥 🧩
    In Development, uses Scala Native instead of JVM
 
-### [Scala Native SBT](https://github.com/optical002/godot-scala-native) 👥 🧩
-   In Development, uses Scala Native SBT instead of JVM and instead of Mill like above.
-   Has built-in godot plugin for launching SBT server from editor.
+### [Scala Native SBT](https://github.com/optical002/godot-scala-native) 💍 🧩 🔌
+   Scala Native typesafe, batteries included implementation with SBT build system. Has built-in 
+   godot plugin for launching SBT server from editor. Supports simple syntax, can build nodes 
+   without any annotations (supports nodes for custom inspector display e.g. show range, file open).
 
 ## Help
 
