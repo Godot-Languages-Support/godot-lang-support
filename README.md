@@ -193,7 +193,10 @@ The _TinyCC_ C compiler integrated as a GDExtension.
    In Development, uses Kotlin Native instead of JVM
 
 ### [Scala Native](https://github.com/julian-avar/gdext-sc-native) 👥 🧩
-   In Development, uses Scala Native instead of JVM
+   In Development, uses Scala Native instead of JVM.
+
+### [Scala Native (SBT)](https://github.com/optical002/godot-scala-native) 💍 🧩 🔌
+   Scala Native typesafe, batteries included implementation with the SBT build tool. Has a built-in Godot plugin for launching an SBT server from the editor. Supports simple syntax, can build nodes without any annotations (also supports annotations for custom inspector display e.g. show range, file open). Focused on implementing a seamless experience for developing games with Godot using Scala Native.
 
 ## Help
 
