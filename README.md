@@ -198,6 +198,9 @@ The _TinyCC_ C compiler integrated as a GDExtension.
 ### [Scala Native (SBT)](https://github.com/optical002/godot-scala-native) 💍 🧩 🔌
    Scala Native typesafe, batteries included implementation with the SBT build tool. Has a built-in Godot plugin for launching an SBT server from the editor. Supports simple syntax, can build nodes without any annotations (also supports annotations for custom inspector display e.g. show range, file open). Focused on implementing a seamless experience for developing games with Godot using Scala Native.
 
+### [Verse]([https://github.com/julian-avar/gdext-sc-native](https://github.com/DevPrice/godot-verse)) 👥 🧬 🧩
+   Experimental support for Epic's [Verse](https://verselang.github.io/book/) as a scripting language.
+
 ## Help
 
 As a small **volunteer** team with only two active maintainers (@ShalokShalom and @Vivraan), tracking community favourites versus cool upcoming demos of the GDExtension technology is challenging, given our busy schedules and attention spans 🫠
