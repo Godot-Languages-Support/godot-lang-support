@@ -142,6 +142,9 @@ A visual scripting designed to help in those scenarios where you need visual con
 ### [C](https://github.com/system-er/gdtinycc) 🧩
 The _TinyCC_ C compiler integrated as a GDExtension.
 
+### [C++ / godot-object-compiler](https://github.com/LucaTuerk/godot-object-compiler) 👥⚙️🧩
+   Godot ClassDB binding code generator for C++ GDExtensions and Modules.
+
 ### [D](https://github.com/godot-dlang/godot-dlang)  👥 🧩 🔌
    New, maintained binding to GDExtension, ported from the previous GDNative extension.
 
