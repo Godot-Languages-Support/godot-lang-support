@@ -17,6 +17,7 @@ This document itself is licensed under the [CC-BY-4.0](/LICENSE). We do welcome 
 - 🧩 GDExtension
 - 🏄 "Surfs" in another language
 - 🏰 Sandboxes the code
+- 🔧 Auxiliary Language Tooling / Ecosystem Extension
 
 ### By editor support
 - 🧬 Can be edited inside the Godot Engine (and its forks)
@@ -37,7 +38,7 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
    
    You can code your entire project (or parts of it) in C++ and include the game logic as Godot modules.
 
- ### [C++ / Jenova](https://jenova-framework.github.io/docs/pages/Getting-Started)  👥 🧩 🧬 🔌
+ ### [C++ / Jenova](https://jenova-framework.github.io/docs/pages/Getting-Started)  👥 🧩 🧬 🔌🔧
    
    Jenova provides hot-reloadable C++  scripting and support for Visual Studio, VS Code, and the Godot editor.
    
@@ -56,7 +57,7 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
    In that case, you should be aware of potentially missing features with these extensions.
    As an example, users should not use functions stored in JenovaSDK unless they build it statically and link against it.
 
-### [C++, Rust and Zig](https://github.com/libriscv/godot-sandbox)  👥 🧩 🏰 🌍 ⚡
+### [C++, Rust and Zig / godot-sandbox](https://github.com/libriscv/godot-sandbox)  👥 🧩 🏰 🌍 ⚡🔧
    
    This mainly focuses on C++ and Rust support, and also features Zig. It sandboxes the code, making it suitable for modding support.
 
@@ -121,7 +122,7 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
 ## 🤪 Curiosities 
    Stable programming languages... with a twist 😉 
 
-### [Enu](https://github.com/dsrw/enu)  👥 🧬 ⚙️
+### [Enu](https://github.com/dsrw/enu)  👥 🧬 ⚙️🔧
    Logo-like framework in a block-based 3D world. Based on Nim.
 
 ### [Ink](https://github.com/inkle/ink)  👥 🔌 🏄
@@ -139,10 +140,10 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
    Eventsheet-based coding.  
 A visual scripting designed to help in those scenarios where you need visual control of things that may happen sequentially in-game.
 
-### [C](https://github.com/system-er/gdtinycc) 🧩
+### [C](https://github.com/system-er/gdtinycc) 🧩🔧
 The _TinyCC_ C compiler integrated as a GDExtension.
 
-### [C++ / godot-object-compiler](https://github.com/LucaTuerk/godot-object-compiler) 👥⚙️🧩
+### [C++ / godot-object-compiler](https://github.com/LucaTuerk/godot-object-compiler) 👥⚙️🧩🔧
    Godot ClassDB binding code generator for C++ GDExtensions and Modules.
 
 ### [D](https://github.com/godot-dlang/godot-dlang)  👥 🧩 🔌
