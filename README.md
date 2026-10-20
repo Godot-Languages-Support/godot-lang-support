@@ -126,6 +126,12 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
 
    There is also [SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit)
 
+### [Scala Native](https://github.com/optical002/godot-scala-native)  👥 🧩 🔌
+
+   Type-safe, batteries-included Scala bindings that compile to native code with Scala Native. You can find the [documentation here](https://optical002.github.io/godot-scala-native/).
+
+   Write plain Scala classes and they become nodes, with no annotations needed. Optional annotations control how properties appear in the inspector, such as ranges and file pickers. A built-in editor plugin manages the SBT server for you.
+
 ## 🤪 Curiosities
 
    Stable programming languages... with a twist 😉
@@ -230,10 +236,6 @@ The *TinyCC* C compiler integrated as a GDExtension.
 ### [Scala Native](https://github.com/julian-avar/gdext-sc-native) 👥 🧩
 
    In Development, uses Scala Native instead of JVM.
-
-### [Scala Native (SBT)](https://github.com/optical002/godot-scala-native) 💍 🧩 🔌
-
-   Scala Native typesafe, batteries included implementation with the SBT build tool. Has a built-in Godot plugin for launching an SBT server from the editor. Supports simple syntax, can build nodes without any annotations (also supports annotations for custom inspector display e.g. show range, file open). Focused on implementing a seamless experience for developing games with Godot using Scala Native.
 
 ### [Verse](https://github.com/DevPrice/godot-verse) 👥 🧩 🧬
 
