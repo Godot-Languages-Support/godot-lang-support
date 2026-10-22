@@ -128,9 +128,9 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
 
 ### [Scala Native](https://github.com/optical002/godot-scala-native)  👥 🧩 🔌
 
-   Type-safe, batteries-included Scala bindings that compile to native code with Scala Native. You can find the [documentation here](https://optical002.github.io/godot-scala-native/).
+   Type-safe, batteries-included Scala bindings that compile to native code with Scala Native. Find all relevant documentation [here](https://optical002.github.io/godot-scala-native/).
 
-   Write plain Scala classes and they become nodes, with no annotations needed. Optional annotations control how properties appear in the inspector, such as ranges and file pickers. A built-in editor plugin manages the SBT server for you.
+   Plain Scala classes automatically convert into nodes, no annotations needed, while optional annotations control how properties appear in the inspector, such as ranges and file pickers. A built-in editor plugin manages the SBT server ergonomically.
 
 ## 🤪 Curiosities
 
