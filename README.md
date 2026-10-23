@@ -237,7 +237,7 @@ The *TinyCC* C compiler integrated as a GDExtension.
 
    In Development, uses Scala Native instead of JVM.
 
-### [Verse](https://github.com/DevPrice/godot-verse) 👥 🧩 🧬
+### [Verse](https://github.com/DevPrice/godot-verse) 👥 🧩 🧬 🌍
 
    Experimental support for Epic's [Verse](https://verselang.github.io/book/) as a scripting language.
 
