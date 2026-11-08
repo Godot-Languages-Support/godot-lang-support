@@ -163,7 +163,7 @@ A visual scripting designed to help in those scenarios where you need visual con
 
 The *TinyCC* C compiler integrated as a GDExtension.
 
-### [C++ / godot-object-compiler](https://github.com/LucaTuerk/godot-object-compiler) 👥⚙️🧩🔧
+### [C++ / godot-object-compiler](https://github.com/LucaTuerk/godot-object-compiler) 👥 ⚙️ 🧩 🔧
 
    Godot ClassDB binding code generator for C++ GDExtensions and Modules.
 
@@ -179,9 +179,23 @@ The *TinyCC* C compiler integrated as a GDExtension.
 
    Intuitive visual event-based language.
 
+### [GDScript via Reginleif](https://github.com/chesedcore/Reginleif) 👥 ⚙️ 🧩
+
+   An experimental Godot fork focused on improving GDScript. Adds generics, traits, braces and optimisations.
+
 ### [Go 2](https://github.com/godot-go/godot-go/)  👥 🧩 🔌
 
    Go bindings to GDExtension.
+
+### [Java](https://github.com/youngledo/godot-java)  👥 🧩 🔌
+
+   Java bindings for Godot 4 via Panama FFI (Foreign Function & Memory API, ~50ns per call).
+   Compile-time annotation processing (APT) for type discovery — zero runtime reflection.
+   Requires Java 25+.
+
+### [Kotlin](https://github.com/kingg22/kogot) 👥 🧩 🔌
+
+   In Development, uses Kotlin Native instead of JVM
 
 ### [Lua](https://github.com/perbone/luascript)  👥 ⚙️ 🧬 🔌
 
@@ -203,9 +217,17 @@ The *TinyCC* C compiler integrated as a GDExtension.
 
    Yet another Python GDExtension binding. Seems relatively inactive compared to the first two.
 
+### [Scala Native](https://github.com/julian-avar/gdext-sc-native) 👥 🧩
+
+   In Development, uses Scala Native instead of JVM.
+
 ### [V](https://github.com/rosshadden/gdext-v)  👥 🧩 🔌
 
    Bindings for [the V programming language](https://vlang.io/).
+
+### [Verse](https://github.com/DevPrice/godot-verse) 👥 🧩 🧬 🌍
+
+   Experimental support for Epic's [Verse](https://verselang.github.io/book/) as a scripting language.
 
 ### [WASM](https://github.com/Dheatly23/godot-wasm)  👥 🏰 🏄 🌍
 
@@ -222,24 +244,6 @@ The *TinyCC* C compiler integrated as a GDExtension.
 ### [Zig 2](https://github.com/thimenesup/GodotZigBindings)  👥 🧩 🔌
 
    Almost no documentation is provided. This project's status is uncertain.
-
-### [Java](https://github.com/youngledo/godot-java)  👥 🧩 🔌
-
-   Java bindings for Godot 4 via Panama FFI (Foreign Function & Memory API, ~50ns per call).
-   Compile-time annotation processing (APT) for type discovery — zero runtime reflection.
-   Requires Java 25+.
-
-### [Kotlin](https://github.com/kingg22/kogot) 👥 🧩 🔌
-
-   In Development, uses Kotlin Native instead of JVM
-
-### [Scala Native](https://github.com/julian-avar/gdext-sc-native) 👥 🧩
-
-   In Development, uses Scala Native instead of JVM.
-
-### [Verse](https://github.com/DevPrice/godot-verse) 👥 🧩 🧬 🌍
-
-   Experimental support for Epic's [Verse](https://verselang.github.io/book/) as a scripting language.
 
 ## Help
 
