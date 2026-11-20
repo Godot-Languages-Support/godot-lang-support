@@ -150,7 +150,7 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
 
 *The emojis here might be incomplete.*
 
-### [ActionScript 3 / Kumikae AS3](https://github.com/AniCanon/kumikae-as3)  👥 🧩 🔌
+### [ActionScript 3](https://github.com/AniCanon/kumikae-as3)  👥 🧩 🔌
 
    ActionScript 3 as a first-class scripting language for Godot 4, by [AniCanon](https://github.com/AniCanon).
    Status: alpha. [Coin Dash](https://github.com/AniCanon/kumikae-as3/tree/main/examples/coin-dash): a small game written in ActionScript 3 for Godot 4.7.
