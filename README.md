@@ -90,7 +90,7 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
 
    JavaScript and TypeScript extension, with multiple different backends to choose from.
 
-### [Kotlin, Java, and Scala.](https://github.com/utopia-rise/godot-jvm)  👥 ⚙️ 🔌 🌍 ⚡
+### [Kotlin, Java, and Scala](https://github.com/utopia-rise/godot-jvm)  👥 ⚙️ 🔌 🌍 ⚡
 
    Provides proper support for Kotlin and Java. Aims to support Scala in the near future as well.
 
@@ -150,6 +150,10 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
 
 *The emojis here might be incomplete.*
 
+### [ActionScript 3](https://github.com/AniCanon/kumikae-as3)  👥 🧩 🔌
+
+   ActionScript 3 as a first-class scripting language for Godot 4. Contains [working examples](https://github.com/AniCanon/kumikae-as3/tree/main/examples/).
+
 ### [Block Coding](https://github.com/endlessm/godot-block-coding)  👥 🧩 🧬
 
    Scratch-like visual coding in blocks.
@@ -205,15 +209,15 @@ The *TinyCC* C compiler integrated as a GDExtension.
 
    An upcoming Odin binding using GDExtension. The README also mentions a (heavily-caveated) preprocessor mode called "Godin" for autogenerating Godot boilerplate.
 
-### [Python](https://github.com/touilleMan/godot-python/tree/godot4-meson)  👥 🧩 🧬 🔌
+### [Python #1](https://github.com/touilleMan/godot-python/tree/godot4-meson)  👥 🧩 🧬 🔌
 
    Currently in reconstruction.
 
-### [Python 2](https://github.com/niklas2902/py4godot)  👥 🧩 🧬 🔌
+### [Python #2](https://github.com/niklas2902/py4godot)  👥 🧩 🧬 🔌
 
    Python implementation from scratch.
 
-### [Python 3](https://github.com/maiself/godot-python-extension) 👥 🧩 🔌 (everyone loves Python)
+### [Python #3](https://github.com/maiself/godot-python-extension) 👥 🧩 🔌 (everyone loves Python)
 
    Yet another Python GDExtension binding. Seems relatively inactive compared to the first two.
 
